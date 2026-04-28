@@ -1,6 +1,5 @@
 # Hola soy sebas
 # NUEVAS-TECNOLOG-AS
-Aquí tienes el **README.md listo para copiar y pegar directamente en GitHub** 👇
 
 ```markdown
 # 🏢 Plataforma de Gestión de Renta e Inmuebles
