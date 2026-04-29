@@ -1,5 +1,7 @@
 # Hola soy sebas
+
 # NUEVAS-TECNOLOG-AS
+
 Aquí tienes el **README.md listo para copiar y pegar directamente en GitHub** 👇
 
 ```markdown
@@ -13,39 +15,38 @@ Sistema educativo full-stack para la **gestión, control y análisis de propieda
 
 Este proyecto tiene como objetivo construir una solución integral que permita:
 
-- Administrar propiedades inmobiliarias  
-- Gestionar contratos de arrendamiento  
-- Controlar ingresos y gastos asociados  
-- Analizar rentabilidad y desempeño de los inmuebles  
+- Administrar propiedades inmobiliarias
+- Gestionar contratos de arrendamiento
+- Controlar ingresos y gastos asociados
+- Analizar rentabilidad y desempeño de los inmuebles
 
 La solución combina:
 
-- 📊 Análisis de datos con Python  
-- 🌐 Frontend dinámico en React  
-- ⚙️ Backend escalable con Spring Boot  
+- 📊 Análisis de datos con Python
+- 🌐 Frontend dinámico en React
+- ⚙️ Backend escalable con Spring Boot
 
 ---
 
 ## 🎯 Objetivos
 
-- Centralizar la información de propiedades y arrendatarios  
-- Controlar pagos de renta y gastos operativos  
-- Analizar indicadores financieros (ROI, flujo de caja, ocupación)  
-- Visualizar datos mediante dashboards interactivos  
-- Apoyar la toma de decisiones basada en datos  
+- Centralizar la información de propiedades y arrendatarios
+- Controlar pagos de renta y gastos operativos
+- Analizar indicadores financieros (ROI, flujo de caja, ocupación)
+- Visualizar datos mediante dashboards interactivos
+- Apoyar la toma de decisiones basada en datos
 
 ---
 
 ## 🧱 Arquitectura del Proyecto
-
 ```
 
 project-root/
 │
-├── backend/           # API REST con Spring Boot
-├── frontend/          # Aplicación web en React
-├── data-analysis/     # Scripts de análisis con Python
-├── docs/              # Documentación
+├── backend/ # API REST con Spring Boot
+├── frontend/ # Aplicación web en React
+├── data-analysis/ # Scripts de análisis con Python
+├── docs/ # Documentación
 └── README.md
 
 ````
@@ -80,33 +81,33 @@ project-root/
 
 El sistema permite gestionar:
 
-- Propiedades (casas, apartamentos, locales)  
-- Arrendatarios  
-- Contratos de arrendamiento  
-- Pagos de renta  
-- Gastos asociados (mantenimiento, impuestos, servicios)  
+- Propiedades (casas, apartamentos, locales)
+- Arrendatarios
+- Contratos de arrendamiento
+- Pagos de renta
+- Gastos asociados (mantenimiento, impuestos, servicios)
 
 ---
 
 ## 📊 Funcionalidades Principales
 
-- ✅ Registro y gestión de inmuebles  
-- ✅ Administración de contratos  
-- ✅ Control de pagos de renta  
-- ✅ Seguimiento de gastos por propiedad  
-- ✅ Dashboard financiero interactivo  
-- ✅ Reportes de rentabilidad  
-- ✅ Alertas de pagos pendientes  
+- ✅ Registro y gestión de inmuebles
+- ✅ Administración de contratos
+- ✅ Control de pagos de renta
+- ✅ Seguimiento de gastos por propiedad
+- ✅ Dashboard financiero interactivo
+- ✅ Reportes de rentabilidad
+- ✅ Alertas de pagos pendientes
 
 ---
 
 ## 📈 Indicadores Clave (KPIs)
 
-- 💰 Ingreso mensual por propiedad  
-- 📉 Tasa de vacancia  
-- 📊 Rentabilidad (ROI)  
-- 💸 Flujo de caja  
-- 🧾 Relación ingresos vs gastos  
+- 💰 Ingreso mensual por propiedad
+- 📉 Tasa de vacancia
+- 📊 Rentabilidad (ROI)
+- 💸 Flujo de caja
+- 🧾 Relación ingresos vs gastos
 
 ---
 
@@ -114,11 +115,24 @@ El sistema permite gestionar:
 
 El componente en Python permite:
 
-- Limpieza y transformación de datos  
-- Análisis exploratorio (EDA)  
-- Cálculo de KPIs inmobiliarios  
-- Identificación de propiedades más rentables  
-- Proyección de ingresos (extensible a Machine Learning)  
+- Limpieza y transformación de datos
+- Análisis exploratorio (EDA)
+- Cálculo de KPIs inmobiliarios
+- Identificación de propiedades más rentables
+- Proyección de ingresos (extensible a Machine Learning)
+
+### 📊 Simulación y Limpieza de Datos
+
+El proyecto incluye un módulo de **generación de datos simulados** y **limpieza de calidad**:
+
+- **Simulación**: Genera datos realistas de 1000 inmuebles, propietarios y servicios urbanos
+- **Datos Sucios**: Introduce errores intencionales (~50%) para simular datos del mundo real (valores nulos, códigos inválidos, datos fuera de rango)
+- **Limpieza**: Valida y normaliza datos de texto, numéricos y fechas, eliminando registros inconsistentes
+- **Exportación**: Genera archivos JSON y CSV limpios para análisis posterior
+
+```bash
+python main.py  # Ejecuta la simulación, limpieza y exportación completa
+```
 
 ---
 
@@ -182,12 +196,12 @@ jupyter notebook
 
 ## 🧪 Futuras Mejoras
 
-* 🔮 Modelos predictivos de ocupación
-* 🤖 Predicción de ingresos y vacancia
-* 📱 Aplicación móvil
-* 🔐 Autenticación con JWT
-* ☁️ Despliegue en la nube (AWS / Azure / GCP)
-* 🧾 Integración con facturación electrónica
+- 🔮 Modelos predictivos de ocupación
+- 🤖 Predicción de ingresos y vacancia
+- 📱 Aplicación móvil
+- 🔐 Autenticación con JWT
+- ☁️ Despliegue en la nube (AWS / Azure / GCP)
+- 🧾 Integración con facturación electrónica
 
 ---
 
@@ -224,4 +238,3 @@ Proyecto desarrollado con enfoque educativo en:
 
 
 ```
-
