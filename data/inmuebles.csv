@@ -1,1001 +1,1001 @@
 id,codigoCatastral,tipo,descripcion,valorBaseMensual,disponible
-1,INM-91518,Bodega Industrial,Seguridad reforzada y acceso controlado.,6117560,True
-2,INM-79940,Consultorio Médico,Cerca a centros comerciales y transporte público.,11523282,True
-3,INM-70167,Consultorio Médico,Cerca a centros comerciales y transporte público.,8817973,True
-4,INM-15777,Casa Campestre,Área residencial tranquila con zonas verdes.,11568891,True
-5,INM-13086,Casa Campestre,Seguridad reforzada y acceso controlado.,4477215,True
-6,INM-17283,Oficina Corporativa,Área residencial tranquila con zonas verdes.,14833565,True
-7,INM-91241,Consultorio Médico,Área residencial tranquila con zonas verdes.,2869336,True
-8,INM-54400,Penthouse,Seguridad reforzada y acceso controlado.,12131859,True
-9,INM-58053,Lote Urbanizado,Seguridad reforzada y acceso controlado.,8535928,True
-10,INM-22225,Oficina Corporativa,Ubicación estratégica en el centro financiero.,2477471,True
-11,INM-25901,Casa Campestre,Ubicado en zona norte con vista panorámica.,13769727,True
-12,INM-24463,Consultorio Médico,Seguridad reforzada y acceso controlado.,13257502,True
-13,INM-65640,Lote Urbanizado,Seguridad reforzada y acceso controlado.,5092973,True
-14,INM-22822,Apartamento Studio,Espacio abierto con doble altura.,8125257,True
-15,INM-17863,Consultorio Médico,Ubicación estratégica en el centro financiero.,2256618,True
-16,INM-63100,Apartamento Studio,Acabados de lujo y eficiencia energética.,7970063,True
-17,INM-93719,Penthouse,Seguridad reforzada y acceso controlado.,10458887,True
-18,INM-75224,Apartamento Studio,Acabados de lujo y eficiencia energética.,14732733,True
-19,INM-82471,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8936276,True
-20,INM-25496,Casa Campestre,Cerca a centros comerciales y transporte público.,11633894,True
-21,INM-89628,Penthouse,Espacio abierto con doble altura.,9580007,True
-22,INM-74621,Local Comercial,Ubicado en zona norte con vista panorámica.,978597,True
-23,INM-95646,Bodega Industrial,Cerca a centros comerciales y transporte público.,14914547,True
-24,INM-23146,Lote Urbanizado,Área residencial tranquila con zonas verdes.,14971470,True
-25,INM-22437,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,11016818,True
-26,INM-26604,Bodega Industrial,Ubicación estratégica en el centro financiero.,4600861,True
-27,INM-49961,Local Comercial,Cerca a centros comerciales y transporte público.,14465842,True
-28,INM-71966,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,13858634,True
-29,INM-84332,Lote Urbanizado,Seguridad reforzada y acceso controlado.,12559057,True
-30,INM-35778,Consultorio Médico,Seguridad reforzada y acceso controlado.,12976630,True
-31,INM-55582,Local Comercial,Ubicado en zona norte con vista panorámica.,9798196,True
-32,INM-15479,Parqueadero Cubierto,Espacio abierto con doble altura.,4636166,True
-33,INM-96886,Apartamento Studio,Ubicado en zona norte con vista panorámica.,4086109,True
-34,INM-63563,Oficina Corporativa,Cerca a centros comerciales y transporte público.,4038235,True
-35,INM-88455,Penthouse,Seguridad reforzada y acceso controlado.,13766662,True
-36,INM-69496,Local Comercial,Acabados de lujo y eficiencia energética.,14165011,True
-37,INM-24988,Oficina Corporativa,Seguridad reforzada y acceso controlado.,12854138,True
-38,INM-78164,Apartamento Studio,Ubicación estratégica en el centro financiero.,2828041,True
-39,INM-71155,Casa Campestre,Área residencial tranquila con zonas verdes.,9049544,True
-40,INM-73654,Casa Campestre,Cerca a centros comerciales y transporte público.,10352165,True
-41,INM-84722,Consultorio Médico,Área residencial tranquila con zonas verdes.,6141174,True
-42,INM-73547,Consultorio Médico,Ubicado en zona norte con vista panorámica.,4530521,True
-43,INM-26696,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,14778381,True
-44,INM-89608,Local Comercial,Seguridad reforzada y acceso controlado.,6866884,True
-45,INM-62486,Lote Urbanizado,Acabados de lujo y eficiencia energética.,4029601,True
-46,INM-21636,Bodega Industrial,Ubicado en zona norte con vista panorámica.,5498767,True
-47,INM-76557,Parqueadero Cubierto,Espacio abierto con doble altura.,3044562,True
-48,INM-89298,Casa Campestre,Seguridad reforzada y acceso controlado.,3010253,True
-49,INM-10030,Penthouse,Seguridad reforzada y acceso controlado.,14023377,True
-50,INM-84665,Local Comercial,Ubicación estratégica en el centro financiero.,10307629,True
-51,INM-13059,Casa Campestre,Acabados de lujo y eficiencia energética.,2997397,True
-52,INM-90211,Lote Urbanizado,Cerca a centros comerciales y transporte público.,8081304,True
-53,INM-65375,Bodega Industrial,Acabados de lujo y eficiencia energética.,2058870,True
-54,INM-36169,Oficina Corporativa,Acabados de lujo y eficiencia energética.,14097376,True
-55,INM-11381,Penthouse,Seguridad reforzada y acceso controlado.,12080589,True
-56,INM-88621,Apartamento Studio,Seguridad reforzada y acceso controlado.,4299122,True
-57,INM-34492,Consultorio Médico,Ubicado en zona norte con vista panorámica.,7516494,True
-58,INM-85687,Penthouse,Cerca a centros comerciales y transporte público.,2497111,True
-59,INM-43867,Casa Campestre,Seguridad reforzada y acceso controlado.,6476135,True
-60,INM-67944,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,6411400,True
-61,INM-86270,Lote Urbanizado,Seguridad reforzada y acceso controlado.,9141650,True
-62,INM-83869,Consultorio Médico,Espacio abierto con doble altura.,12556991,True
-63,INM-59033,Apartamento Studio,Ubicación estratégica en el centro financiero.,11704062,True
-64,INM-91675,Local Comercial,Seguridad reforzada y acceso controlado.,4777482,True
-65,INM-27343,Lote Urbanizado,Cerca a centros comerciales y transporte público.,4190411,True
-66,INM-19535,Penthouse,Acabados de lujo y eficiencia energética.,2122361,True
-67,INM-29641,Penthouse,Área residencial tranquila con zonas verdes.,11646003,True
-68,INM-72070,Lote Urbanizado,Área residencial tranquila con zonas verdes.,10872360,True
-69,INM-69838,Local Comercial,Acabados de lujo y eficiencia energética.,12421021,True
-70,INM-48132,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,12743665,True
-71,INM-87477,Casa Campestre,Acabados de lujo y eficiencia energética.,1046196,True
-72,INM-97117,Lote Urbanizado,Ubicación estratégica en el centro financiero.,8455327,True
-73,INM-71230,Local Comercial,Acabados de lujo y eficiencia energética.,821706,True
-74,INM-96469,Oficina Corporativa,Ubicación estratégica en el centro financiero.,3986461,True
-75,INM-18294,Local Comercial,Cerca a centros comerciales y transporte público.,7663517,True
-76,INM-97052,Consultorio Médico,Seguridad reforzada y acceso controlado.,4672608,True
-77,INM-56570,Consultorio Médico,Cerca a centros comerciales y transporte público.,10173465,True
-78,INM-86991,Penthouse,Área residencial tranquila con zonas verdes.,14107511,True
-79,INM-94532,Apartamento Studio,Área residencial tranquila con zonas verdes.,12688468,True
-80,INM-73214,Bodega Industrial,Cerca a centros comerciales y transporte público.,2908020,True
-81,INM-34203,Casa Campestre,Cerca a centros comerciales y transporte público.,11800603,True
-82,INM-93577,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,4322199,True
-83,INM-24310,Lote Urbanizado,Ubicación estratégica en el centro financiero.,3923821,True
-84,INM-81231,Apartamento Studio,Área residencial tranquila con zonas verdes.,4449275,True
-85,INM-26789,Lote Urbanizado,Área residencial tranquila con zonas verdes.,3679945,True
-86,INM-21796,Consultorio Médico,Seguridad reforzada y acceso controlado.,9856727,True
-87,INM-19997,Consultorio Médico,Cerca a centros comerciales y transporte público.,11473055,True
-88,INM-86161,Bodega Industrial,Espacio abierto con doble altura.,12215196,True
-89,INM-56122,Penthouse,Cerca a centros comerciales y transporte público.,11340883,True
-90,INM-99637,Oficina Corporativa,Seguridad reforzada y acceso controlado.,11366205,True
-91,INM-28435,Apartamento Studio,Área residencial tranquila con zonas verdes.,8500545,True
-92,INM-41590,Apartamento Studio,Ubicación estratégica en el centro financiero.,1216130,True
-93,INM-81675,Apartamento Studio,Área residencial tranquila con zonas verdes.,10692222,True
-94,INM-92298,Local Comercial,Espacio abierto con doble altura.,8801151,True
-95,INM-73295,Lote Urbanizado,Seguridad reforzada y acceso controlado.,4077885,True
-96,INM-48369,Penthouse,Acabados de lujo y eficiencia energética.,14024972,True
-97,INM-77672,Local Comercial,Seguridad reforzada y acceso controlado.,11865941,True
-98,INM-69430,Casa Campestre,Seguridad reforzada y acceso controlado.,3407332,True
-99,INM-17256,Casa Campestre,Espacio abierto con doble altura.,14102846,True
-100,INM-12984,Casa Campestre,Cerca a centros comerciales y transporte público.,4413228,True
-101,INM-36791,Oficina Corporativa,Área residencial tranquila con zonas verdes.,10839060,True
-102,INM-28282,Local Comercial,Área residencial tranquila con zonas verdes.,11747453,True
-103,INM-39491,Oficina Corporativa,Área residencial tranquila con zonas verdes.,10945332,True
-104,INM-78674,Consultorio Médico,Ubicación estratégica en el centro financiero.,4097888,True
-105,INM-70071,Casa Campestre,Acabados de lujo y eficiencia energética.,13874411,True
-106,INM-83442,Casa Campestre,Cerca a centros comerciales y transporte público.,10792443,True
-107,INM-97864,Penthouse,Ubicado en zona norte con vista panorámica.,12069571,True
-108,INM-74976,Lote Urbanizado,Seguridad reforzada y acceso controlado.,5772996,True
-109,INM-15724,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,6784789,True
-110,INM-27274,Casa Campestre,Seguridad reforzada y acceso controlado.,6184824,True
-111,INM-54750,Penthouse,Espacio abierto con doble altura.,5807544,True
-112,INM-23439,Lote Urbanizado,Ubicación estratégica en el centro financiero.,9759494,True
-113,INM-11354,Casa Campestre,Cerca a centros comerciales y transporte público.,8936439,True
-114,INM-65683,Bodega Industrial,Acabados de lujo y eficiencia energética.,3576638,True
-115,INM-49946,Oficina Corporativa,Ubicación estratégica en el centro financiero.,5730734,True
-116,INM-28888,Penthouse,Área residencial tranquila con zonas verdes.,7441132,True
-117,INM-58451,Casa Campestre,Acabados de lujo y eficiencia energética.,6247906,True
-118,INM-86956,Apartamento Studio,Acabados de lujo y eficiencia energética.,9160352,True
-119,INM-27363,Apartamento Studio,Seguridad reforzada y acceso controlado.,990787,True
-120,INM-65583,Lote Urbanizado,Acabados de lujo y eficiencia energética.,7029740,True
-121,INM-86640,Local Comercial,Ubicado en zona norte con vista panorámica.,14237420,True
-122,INM-37723,Bodega Industrial,Cerca a centros comerciales y transporte público.,12721977,True
-123,INM-75082,Penthouse,Ubicado en zona norte con vista panorámica.,8441573,True
-124,INM-45639,Consultorio Médico,Área residencial tranquila con zonas verdes.,6781088,True
-125,INM-85482,Lote Urbanizado,Ubicación estratégica en el centro financiero.,9367109,True
-126,INM-84739,Penthouse,Acabados de lujo y eficiencia energética.,1303252,True
-127,INM-81555,Casa Campestre,Seguridad reforzada y acceso controlado.,4469450,True
-128,INM-58390,Penthouse,Ubicación estratégica en el centro financiero.,6395279,True
-129,INM-42261,Lote Urbanizado,Acabados de lujo y eficiencia energética.,2962825,True
-130,INM-66525,Local Comercial,Área residencial tranquila con zonas verdes.,14532498,True
-131,INM-74431,Apartamento Studio,Cerca a centros comerciales y transporte público.,14491363,True
-132,INM-52634,Local Comercial,Acabados de lujo y eficiencia energética.,14942832,True
-133,INM-38762,Apartamento Studio,Espacio abierto con doble altura.,13182236,True
-134,INM-40756,Local Comercial,Seguridad reforzada y acceso controlado.,7306637,True
-135,INM-75083,Oficina Corporativa,Ubicación estratégica en el centro financiero.,3867987,True
-136,INM-75660,Oficina Corporativa,Acabados de lujo y eficiencia energética.,7033557,True
-137,INM-56290,Bodega Industrial,Área residencial tranquila con zonas verdes.,3452955,True
-138,INM-29396,Casa Campestre,Ubicación estratégica en el centro financiero.,14414872,True
-139,INM-89363,Apartamento Studio,Área residencial tranquila con zonas verdes.,14963622,True
-140,INM-76043,Oficina Corporativa,Espacio abierto con doble altura.,2507336,True
-141,INM-88202,Consultorio Médico,Espacio abierto con doble altura.,2029697,True
-142,INM-42502,Penthouse,Ubicado en zona norte con vista panorámica.,10421646,True
-143,INM-63774,Local Comercial,Seguridad reforzada y acceso controlado.,9622793,True
-144,INM-81683,Local Comercial,Acabados de lujo y eficiencia energética.,5271918,True
-145,INM-40985,Oficina Corporativa,Ubicación estratégica en el centro financiero.,13447439,True
-146,INM-24872,Local Comercial,Ubicación estratégica en el centro financiero.,7924440,True
-147,INM-50288,Lote Urbanizado,Área residencial tranquila con zonas verdes.,7479249,True
-148,INM-78893,Local Comercial,Ubicación estratégica en el centro financiero.,12530443,True
-149,INM-93279,Penthouse,Acabados de lujo y eficiencia energética.,8664323,True
-150,INM-68300,Casa Campestre,Ubicado en zona norte con vista panorámica.,6343088,True
-151,INM-34109,Lote Urbanizado,Área residencial tranquila con zonas verdes.,12769628,True
-152,INM-80396,Apartamento Studio,Ubicado en zona norte con vista panorámica.,2962168,True
-153,INM-18024,Consultorio Médico,Seguridad reforzada y acceso controlado.,13555131,True
-154,INM-19861,Lote Urbanizado,Acabados de lujo y eficiencia energética.,1325439,True
-155,INM-50232,Oficina Corporativa,Acabados de lujo y eficiencia energética.,9352412,True
-156,INM-72203,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,12101748,True
-157,INM-20197,Casa Campestre,Espacio abierto con doble altura.,14431882,True
-158,INM-15001,Consultorio Médico,Ubicación estratégica en el centro financiero.,7341685,True
-159,INM-28257,Apartamento Studio,Espacio abierto con doble altura.,13340928,True
-160,INM-66265,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,4163500,True
-161,INM-49560,Apartamento Studio,Seguridad reforzada y acceso controlado.,2273179,True
-162,INM-75044,Consultorio Médico,Ubicación estratégica en el centro financiero.,4729051,True
-163,INM-92134,Local Comercial,Seguridad reforzada y acceso controlado.,7389088,True
-164,INM-50567,Penthouse,Seguridad reforzada y acceso controlado.,9524656,True
-165,INM-93543,Apartamento Studio,Ubicación estratégica en el centro financiero.,5769628,True
-166,INM-54936,Casa Campestre,Espacio abierto con doble altura.,11432120,True
-167,INM-82556,Apartamento Studio,Área residencial tranquila con zonas verdes.,7343017,True
-168,INM-55750,Bodega Industrial,Seguridad reforzada y acceso controlado.,2398988,True
-169,INM-12492,Parqueadero Cubierto,Espacio abierto con doble altura.,5633431,True
-170,INM-30507,Local Comercial,Área residencial tranquila con zonas verdes.,2446201,True
-171,INM-51402,Local Comercial,Área residencial tranquila con zonas verdes.,5010357,True
-172,INM-42450,Bodega Industrial,Área residencial tranquila con zonas verdes.,2738181,True
-173,INM-69724,Casa Campestre,Ubicado en zona norte con vista panorámica.,13498470,True
-174,INM-83716,Oficina Corporativa,Área residencial tranquila con zonas verdes.,11872401,True
-175,INM-51676,Casa Campestre,Área residencial tranquila con zonas verdes.,5418129,True
-176,INM-85693,Lote Urbanizado,Seguridad reforzada y acceso controlado.,1896634,True
-177,INM-65322,Oficina Corporativa,Cerca a centros comerciales y transporte público.,962090,True
-178,INM-54786,Lote Urbanizado,Seguridad reforzada y acceso controlado.,7715151,True
-179,INM-67270,Local Comercial,Acabados de lujo y eficiencia energética.,3584908,True
-180,INM-49527,Local Comercial,Acabados de lujo y eficiencia energética.,4808942,True
-181,INM-93078,Bodega Industrial,Acabados de lujo y eficiencia energética.,2497746,True
-182,INM-55214,Local Comercial,Área residencial tranquila con zonas verdes.,7884333,True
-183,INM-54669,Bodega Industrial,Seguridad reforzada y acceso controlado.,12029225,True
-184,INM-56745,Penthouse,Espacio abierto con doble altura.,13393172,True
-185,INM-25823,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,14635269,True
-186,INM-35842,Oficina Corporativa,Cerca a centros comerciales y transporte público.,5408375,True
-187,INM-49002,Apartamento Studio,Ubicación estratégica en el centro financiero.,1886587,True
-188,INM-21601,Local Comercial,Espacio abierto con doble altura.,6709886,True
-189,INM-39282,Apartamento Studio,Ubicación estratégica en el centro financiero.,1238252,True
-190,INM-60210,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,8838697,True
-191,INM-17621,Lote Urbanizado,Espacio abierto con doble altura.,1590816,True
-192,INM-22321,Consultorio Médico,Acabados de lujo y eficiencia energética.,7698360,True
-193,INM-28545,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,6079677,True
-194,INM-30929,Apartamento Studio,Ubicado en zona norte con vista panorámica.,5822146,True
-195,INM-60780,Local Comercial,Espacio abierto con doble altura.,3271542,True
-196,INM-95445,Penthouse,Ubicado en zona norte con vista panorámica.,12026856,True
-197,INM-66374,Apartamento Studio,Espacio abierto con doble altura.,1934345,True
-198,INM-40372,Local Comercial,Acabados de lujo y eficiencia energética.,5816973,True
-199,INM-10585,Local Comercial,Seguridad reforzada y acceso controlado.,11537425,True
-200,INM-91930,Oficina Corporativa,Espacio abierto con doble altura.,1837157,True
-201,INM-77703,Lote Urbanizado,Espacio abierto con doble altura.,1319234,True
-202,INM-64843,Oficina Corporativa,Área residencial tranquila con zonas verdes.,11416326,True
-203,INM-77571,Bodega Industrial,Seguridad reforzada y acceso controlado.,4891597,True
-204,INM-22159,Lote Urbanizado,Cerca a centros comerciales y transporte público.,2695849,True
-205,INM-70844,Local Comercial,Ubicado en zona norte con vista panorámica.,12011239,True
-206,INM-78476,Local Comercial,Cerca a centros comerciales y transporte público.,12022213,True
-207,INM-15463,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,6982265,True
-208,INM-62345,Casa Campestre,Ubicación estratégica en el centro financiero.,7000018,True
-209,INM-82526,Local Comercial,Área residencial tranquila con zonas verdes.,12593713,True
-210,INM-71438,Local Comercial,Cerca a centros comerciales y transporte público.,8154925,True
-211,INM-52998,Oficina Corporativa,Área residencial tranquila con zonas verdes.,12078441,True
-212,INM-42045,Apartamento Studio,Área residencial tranquila con zonas verdes.,14856790,True
-213,INM-21549,Lote Urbanizado,Seguridad reforzada y acceso controlado.,3954254,True
-214,INM-22937,Penthouse,Área residencial tranquila con zonas verdes.,12347069,True
-215,INM-49977,Casa Campestre,Espacio abierto con doble altura.,4161269,True
-216,INM-92971,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,3786998,True
-217,INM-39219,Casa Campestre,Cerca a centros comerciales y transporte público.,4879998,True
-218,INM-29333,Consultorio Médico,Seguridad reforzada y acceso controlado.,6041728,True
-219,INM-60084,Local Comercial,Espacio abierto con doble altura.,6584080,True
-220,INM-14173,Consultorio Médico,Ubicación estratégica en el centro financiero.,10080643,True
-221,INM-76896,Casa Campestre,Ubicación estratégica en el centro financiero.,2897061,True
-222,INM-26772,Apartamento Studio,Cerca a centros comerciales y transporte público.,6322985,True
-223,INM-58373,Parqueadero Cubierto,Espacio abierto con doble altura.,8682946,True
-224,INM-57658,Local Comercial,Seguridad reforzada y acceso controlado.,7619214,True
-225,INM-72268,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,8830896,True
-226,INM-33566,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,9771808,True
-227,INM-42923,Consultorio Médico,Cerca a centros comerciales y transporte público.,13921950,True
-228,INM-54173,Apartamento Studio,Seguridad reforzada y acceso controlado.,14095624,True
-229,INM-58942,Local Comercial,Ubicación estratégica en el centro financiero.,13834857,True
-230,INM-95216,Casa Campestre,Área residencial tranquila con zonas verdes.,10881211,True
-231,INM-59872,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,10936772,True
-232,INM-77695,Oficina Corporativa,Acabados de lujo y eficiencia energética.,9614568,True
-233,INM-23529,Consultorio Médico,Espacio abierto con doble altura.,4339896,True
-234,INM-85931,Penthouse,Seguridad reforzada y acceso controlado.,3336279,True
-235,INM-73123,Bodega Industrial,Ubicación estratégica en el centro financiero.,3900199,True
-236,INM-24829,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,7810706,True
-237,INM-49439,Lote Urbanizado,Ubicación estratégica en el centro financiero.,14839314,True
-238,INM-80887,Consultorio Médico,Espacio abierto con doble altura.,3144681,True
-239,INM-55873,Consultorio Médico,Ubicado en zona norte con vista panorámica.,7131501,True
-240,INM-40709,Local Comercial,Acabados de lujo y eficiencia energética.,6626877,True
-241,INM-97097,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,5826628,True
-242,INM-70489,Local Comercial,Acabados de lujo y eficiencia energética.,11557434,True
-243,INM-61524,Bodega Industrial,Seguridad reforzada y acceso controlado.,1839659,True
-244,INM-61156,Penthouse,Acabados de lujo y eficiencia energética.,13486743,True
-245,INM-17606,Bodega Industrial,Seguridad reforzada y acceso controlado.,2868927,True
-246,INM-85424,Bodega Industrial,Cerca a centros comerciales y transporte público.,3230467,True
-247,INM-41976,Penthouse,Acabados de lujo y eficiencia energética.,6707195,True
-248,INM-29267,Apartamento Studio,Seguridad reforzada y acceso controlado.,13739247,True
-249,INM-73914,Penthouse,Ubicación estratégica en el centro financiero.,14755405,True
-250,INM-15675,Bodega Industrial,Seguridad reforzada y acceso controlado.,11792325,True
-251,INM-50281,Oficina Corporativa,Acabados de lujo y eficiencia energética.,12857867,True
-252,INM-54431,Lote Urbanizado,Seguridad reforzada y acceso controlado.,11621536,True
-253,INM-91344,Apartamento Studio,Ubicación estratégica en el centro financiero.,10230543,True
-254,INM-41762,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,2928020,True
-255,INM-22072,Consultorio Médico,Espacio abierto con doble altura.,2995239,True
-256,INM-62416,Local Comercial,Acabados de lujo y eficiencia energética.,13707115,True
-257,INM-91907,Apartamento Studio,Ubicación estratégica en el centro financiero.,7158516,True
-258,INM-28284,Oficina Corporativa,Cerca a centros comerciales y transporte público.,9872014,True
-259,INM-86266,Apartamento Studio,Ubicación estratégica en el centro financiero.,12187441,True
-260,INM-16132,Consultorio Médico,Cerca a centros comerciales y transporte público.,13950195,True
-261,INM-93622,Local Comercial,Cerca a centros comerciales y transporte público.,1315594,True
-262,INM-22982,Casa Campestre,Ubicación estratégica en el centro financiero.,2851188,True
-263,INM-82802,Local Comercial,Ubicación estratégica en el centro financiero.,12221602,True
-264,INM-30281,Local Comercial,Ubicado en zona norte con vista panorámica.,10806874,True
-265,INM-30634,Bodega Industrial,Acabados de lujo y eficiencia energética.,9927671,True
-266,INM-48399,Casa Campestre,Acabados de lujo y eficiencia energética.,6961492,True
-267,INM-28013,Oficina Corporativa,Área residencial tranquila con zonas verdes.,808753,True
-268,INM-80114,Apartamento Studio,Acabados de lujo y eficiencia energética.,1722028,True
-269,INM-98609,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5046576,True
-270,INM-69474,Apartamento Studio,Acabados de lujo y eficiencia energética.,13494010,True
-271,INM-61613,Penthouse,Área residencial tranquila con zonas verdes.,6341662,True
-272,INM-61522,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,3880377,True
-273,INM-97468,Apartamento Studio,Ubicación estratégica en el centro financiero.,13965889,True
-274,INM-99210,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,2773390,True
-275,INM-60417,Consultorio Médico,Cerca a centros comerciales y transporte público.,13687512,True
-276,INM-36801,Casa Campestre,Ubicado en zona norte con vista panorámica.,11277936,True
-277,INM-20929,Casa Campestre,Espacio abierto con doble altura.,10923058,True
-278,INM-30140,Penthouse,Acabados de lujo y eficiencia energética.,3977235,True
-279,INM-36860,Apartamento Studio,Ubicado en zona norte con vista panorámica.,6533582,True
-280,INM-53445,Penthouse,Cerca a centros comerciales y transporte público.,2004025,True
-281,INM-29054,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,13033605,True
-282,INM-15360,Consultorio Médico,Área residencial tranquila con zonas verdes.,12708539,True
-283,INM-78094,Local Comercial,Acabados de lujo y eficiencia energética.,14404804,True
-284,INM-58995,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,13777110,True
-285,INM-28803,Oficina Corporativa,Cerca a centros comerciales y transporte público.,6109154,True
-286,INM-22293,Penthouse,Cerca a centros comerciales y transporte público.,2626323,True
-287,INM-65438,Casa Campestre,Ubicación estratégica en el centro financiero.,9829669,True
-288,INM-98422,Casa Campestre,Cerca a centros comerciales y transporte público.,6222316,True
-289,INM-78050,Penthouse,Área residencial tranquila con zonas verdes.,11517551,True
-290,INM-86743,Consultorio Médico,Área residencial tranquila con zonas verdes.,2389551,True
-291,INM-34749,Casa Campestre,Seguridad reforzada y acceso controlado.,4308114,True
-292,INM-96050,Apartamento Studio,Seguridad reforzada y acceso controlado.,8129855,True
-293,INM-26401,Penthouse,Acabados de lujo y eficiencia energética.,14473330,True
-294,INM-50357,Lote Urbanizado,Ubicación estratégica en el centro financiero.,5127417,True
-295,INM-13864,Consultorio Médico,Seguridad reforzada y acceso controlado.,13088809,True
-296,INM-12866,Parqueadero Cubierto,Espacio abierto con doble altura.,2188498,True
-297,INM-52716,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,1833022,True
-298,INM-60311,Consultorio Médico,Acabados de lujo y eficiencia energética.,2786701,True
-299,INM-13198,Consultorio Médico,Seguridad reforzada y acceso controlado.,8346300,True
-300,INM-15221,Apartamento Studio,Acabados de lujo y eficiencia energética.,9849794,True
-301,INM-14113,Local Comercial,Ubicado en zona norte con vista panorámica.,4955328,True
-302,INM-99866,Local Comercial,Espacio abierto con doble altura.,1166769,True
-303,INM-47418,Oficina Corporativa,Seguridad reforzada y acceso controlado.,2497120,True
-304,INM-62085,Bodega Industrial,Acabados de lujo y eficiencia energética.,11307932,True
-305,INM-23232,Oficina Corporativa,Acabados de lujo y eficiencia energética.,12640531,True
-306,INM-32274,Casa Campestre,Área residencial tranquila con zonas verdes.,5082598,True
-307,INM-37565,Lote Urbanizado,Área residencial tranquila con zonas verdes.,8607387,True
-308,INM-69487,Lote Urbanizado,Área residencial tranquila con zonas verdes.,9722847,True
-309,INM-72696,Consultorio Médico,Ubicación estratégica en el centro financiero.,9671129,True
-310,INM-28396,Penthouse,Espacio abierto con doble altura.,13720461,True
-311,INM-50400,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,9464905,True
-312,INM-19716,Consultorio Médico,Seguridad reforzada y acceso controlado.,5409326,True
-313,INM-54158,Consultorio Médico,Área residencial tranquila con zonas verdes.,2242120,True
-314,INM-68490,Bodega Industrial,Cerca a centros comerciales y transporte público.,866031,True
-315,INM-26511,Apartamento Studio,Acabados de lujo y eficiencia energética.,11425180,True
-316,INM-78122,Oficina Corporativa,Espacio abierto con doble altura.,6771237,True
-317,INM-99102,Apartamento Studio,Cerca a centros comerciales y transporte público.,12077806,True
-318,INM-70895,Oficina Corporativa,Área residencial tranquila con zonas verdes.,10669117,True
-319,INM-82569,Penthouse,Área residencial tranquila con zonas verdes.,9029954,True
-320,INM-70239,Local Comercial,Cerca a centros comerciales y transporte público.,9146951,True
-321,INM-88335,Penthouse,Ubicación estratégica en el centro financiero.,8451130,True
-322,INM-86856,Casa Campestre,Ubicado en zona norte con vista panorámica.,2853318,True
-323,INM-42500,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,3165980,True
-324,INM-25613,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,1990335,True
-325,INM-55388,Consultorio Médico,Área residencial tranquila con zonas verdes.,9199719,True
-326,INM-75171,Bodega Industrial,Acabados de lujo y eficiencia energética.,11122381,True
-327,INM-70888,Casa Campestre,Cerca a centros comerciales y transporte público.,2721740,True
-328,INM-62310,Bodega Industrial,Cerca a centros comerciales y transporte público.,13619840,True
-329,INM-44709,Local Comercial,Área residencial tranquila con zonas verdes.,9565575,True
-330,INM-47522,Local Comercial,Ubicado en zona norte con vista panorámica.,13295194,True
-331,INM-97575,Penthouse,Ubicación estratégica en el centro financiero.,12932154,True
-332,INM-14027,Local Comercial,Área residencial tranquila con zonas verdes.,8895866,True
-333,INM-54332,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5747799,True
-334,INM-22881,Oficina Corporativa,Seguridad reforzada y acceso controlado.,11308075,True
-335,INM-71598,Consultorio Médico,Espacio abierto con doble altura.,9363441,True
-336,INM-53983,Casa Campestre,Acabados de lujo y eficiencia energética.,13014629,True
-337,INM-28168,Bodega Industrial,Ubicado en zona norte con vista panorámica.,6411066,True
-338,INM-47445,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,14251511,True
-339,INM-81110,Parqueadero Cubierto,Espacio abierto con doble altura.,6275978,True
-340,INM-15800,Penthouse,Ubicación estratégica en el centro financiero.,5390657,True
-341,INM-64785,Lote Urbanizado,Ubicación estratégica en el centro financiero.,4637834,True
-342,INM-94349,Apartamento Studio,Acabados de lujo y eficiencia energética.,9021843,True
-343,INM-60386,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,8047911,True
-344,INM-86546,Local Comercial,Cerca a centros comerciales y transporte público.,10418055,True
-345,INM-14892,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,13403063,True
-346,INM-49529,Oficina Corporativa,Acabados de lujo y eficiencia energética.,8091260,True
-347,INM-71100,Penthouse,Ubicación estratégica en el centro financiero.,13804076,True
-348,INM-96935,Casa Campestre,Ubicación estratégica en el centro financiero.,12103983,True
-349,INM-50934,Consultorio Médico,Área residencial tranquila con zonas verdes.,10263828,True
-350,INM-28393,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,11543924,True
-351,INM-95388,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,13864006,True
-352,INM-16357,Casa Campestre,Ubicado en zona norte con vista panorámica.,14014483,True
-353,INM-19232,Casa Campestre,Cerca a centros comerciales y transporte público.,1827528,True
-354,INM-80895,Local Comercial,Seguridad reforzada y acceso controlado.,8246842,True
-355,INM-92355,Consultorio Médico,Cerca a centros comerciales y transporte público.,1638438,True
-356,INM-54938,Bodega Industrial,Espacio abierto con doble altura.,3749043,True
-357,INM-93160,Lote Urbanizado,Espacio abierto con doble altura.,890709,True
-358,INM-29062,Lote Urbanizado,Área residencial tranquila con zonas verdes.,3054070,True
-359,INM-98580,Local Comercial,Seguridad reforzada y acceso controlado.,6347424,True
-360,INM-60296,Parqueadero Cubierto,Espacio abierto con doble altura.,12828620,True
-361,INM-36039,Lote Urbanizado,Ubicación estratégica en el centro financiero.,1544961,True
-362,INM-45517,Casa Campestre,Área residencial tranquila con zonas verdes.,4699018,True
-363,INM-36146,Casa Campestre,Seguridad reforzada y acceso controlado.,3912111,True
-364,INM-21305,Local Comercial,Acabados de lujo y eficiencia energética.,7171103,True
-365,INM-78936,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,12746033,True
-366,INM-75149,Lote Urbanizado,Cerca a centros comerciales y transporte público.,7619267,True
-367,INM-84091,Penthouse,Ubicado en zona norte con vista panorámica.,12520337,True
-368,INM-42869,Penthouse,Cerca a centros comerciales y transporte público.,12902485,True
-369,INM-91775,Lote Urbanizado,Área residencial tranquila con zonas verdes.,4087254,True
-370,INM-58051,Penthouse,Espacio abierto con doble altura.,12532335,True
-371,INM-71857,Bodega Industrial,Ubicado en zona norte con vista panorámica.,9301390,True
-372,INM-12686,Local Comercial,Área residencial tranquila con zonas verdes.,9008198,True
-373,INM-38900,Consultorio Médico,Ubicación estratégica en el centro financiero.,3656406,True
-374,INM-98742,Oficina Corporativa,Seguridad reforzada y acceso controlado.,6240324,True
-375,INM-84436,Lote Urbanizado,Ubicación estratégica en el centro financiero.,4980954,True
-376,INM-63724,Local Comercial,Seguridad reforzada y acceso controlado.,10161557,True
-377,INM-99771,Consultorio Médico,Ubicación estratégica en el centro financiero.,10799429,True
-378,INM-17601,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,2384709,True
-379,INM-16314,Apartamento Studio,Ubicación estratégica en el centro financiero.,2591248,True
-380,INM-97066,Local Comercial,Área residencial tranquila con zonas verdes.,1162282,True
-381,INM-29771,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,8384869,True
-382,INM-34697,Parqueadero Cubierto,Espacio abierto con doble altura.,13079807,True
-383,INM-19691,Bodega Industrial,Cerca a centros comerciales y transporte público.,5051443,True
-384,INM-49933,Oficina Corporativa,Ubicación estratégica en el centro financiero.,13159856,True
-385,INM-68949,Lote Urbanizado,Espacio abierto con doble altura.,6250447,True
-386,INM-50018,Lote Urbanizado,Seguridad reforzada y acceso controlado.,13683324,True
-387,INM-63174,Consultorio Médico,Seguridad reforzada y acceso controlado.,8804849,True
-388,INM-33272,Local Comercial,Seguridad reforzada y acceso controlado.,1717949,True
-389,INM-10890,Oficina Corporativa,Área residencial tranquila con zonas verdes.,9189144,True
-390,INM-33161,Casa Campestre,Seguridad reforzada y acceso controlado.,2530738,True
-391,INM-60884,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,11581183,True
-392,INM-77831,Casa Campestre,Seguridad reforzada y acceso controlado.,3721363,True
-393,INM-81624,Bodega Industrial,Ubicado en zona norte con vista panorámica.,4603185,True
-394,INM-16620,Casa Campestre,Acabados de lujo y eficiencia energética.,9208184,True
-395,INM-50107,Casa Campestre,Área residencial tranquila con zonas verdes.,4501071,True
-396,INM-46286,Lote Urbanizado,Acabados de lujo y eficiencia energética.,6591111,True
-397,INM-47040,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,14356957,True
-398,INM-40062,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,879388,True
-399,INM-93765,Bodega Industrial,Ubicado en zona norte con vista panorámica.,2749188,True
-400,INM-83494,Consultorio Médico,Espacio abierto con doble altura.,8544428,True
-401,INM-59376,Bodega Industrial,Seguridad reforzada y acceso controlado.,8128369,True
-402,INM-21544,Oficina Corporativa,Ubicación estratégica en el centro financiero.,7640986,True
-403,INM-73394,Consultorio Médico,Cerca a centros comerciales y transporte público.,11791098,True
-404,INM-18734,Bodega Industrial,Seguridad reforzada y acceso controlado.,14575868,True
-405,INM-68620,Apartamento Studio,Acabados de lujo y eficiencia energética.,7667700,True
-406,INM-88409,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,12937546,True
-407,INM-28346,Local Comercial,Ubicación estratégica en el centro financiero.,3648638,True
-408,INM-19822,Casa Campestre,Área residencial tranquila con zonas verdes.,6319072,True
-409,INM-33283,Casa Campestre,Acabados de lujo y eficiencia energética.,9746948,True
-410,INM-71726,Lote Urbanizado,Cerca a centros comerciales y transporte público.,6303452,True
-411,INM-89976,Casa Campestre,Seguridad reforzada y acceso controlado.,14110612,True
-412,INM-84875,Bodega Industrial,Espacio abierto con doble altura.,10271233,True
-413,INM-68333,Casa Campestre,Espacio abierto con doble altura.,4915596,True
-414,INM-98408,Penthouse,Espacio abierto con doble altura.,885383,True
-415,INM-46898,Apartamento Studio,Cerca a centros comerciales y transporte público.,14385082,True
-416,INM-48665,Oficina Corporativa,Cerca a centros comerciales y transporte público.,10028402,True
-417,INM-77686,Casa Campestre,Ubicado en zona norte con vista panorámica.,9831758,True
-418,INM-62512,Bodega Industrial,Cerca a centros comerciales y transporte público.,5023265,True
-419,INM-81759,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,13266945,True
-420,INM-17500,Lote Urbanizado,Espacio abierto con doble altura.,3224098,True
-421,INM-35827,Oficina Corporativa,Cerca a centros comerciales y transporte público.,2244171,True
-422,INM-33444,Apartamento Studio,Espacio abierto con doble altura.,9090025,True
-423,INM-86743,Oficina Corporativa,Área residencial tranquila con zonas verdes.,9415395,True
-424,INM-12381,Apartamento Studio,Seguridad reforzada y acceso controlado.,8081964,True
-425,INM-26007,Lote Urbanizado,Área residencial tranquila con zonas verdes.,13612421,True
-426,INM-44772,Local Comercial,Seguridad reforzada y acceso controlado.,14558661,True
-427,INM-18203,Local Comercial,Cerca a centros comerciales y transporte público.,8131619,True
-428,INM-49489,Penthouse,Seguridad reforzada y acceso controlado.,11013501,True
-429,INM-57082,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,2932800,True
-430,INM-32023,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,4819318,True
-431,INM-40045,Oficina Corporativa,Cerca a centros comerciales y transporte público.,3265933,True
-432,INM-44074,Apartamento Studio,Ubicación estratégica en el centro financiero.,11822332,True
-433,INM-98888,Penthouse,Seguridad reforzada y acceso controlado.,4210373,True
-434,INM-45643,Penthouse,Área residencial tranquila con zonas verdes.,3229421,True
-435,INM-62617,Casa Campestre,Ubicado en zona norte con vista panorámica.,7491660,True
-436,INM-12394,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,1763865,True
-437,INM-34760,Penthouse,Ubicación estratégica en el centro financiero.,11273786,True
-438,INM-30465,Bodega Industrial,Cerca a centros comerciales y transporte público.,9824768,True
-439,INM-52611,Local Comercial,Acabados de lujo y eficiencia energética.,11880383,True
-440,INM-15168,Consultorio Médico,Ubicación estratégica en el centro financiero.,7833399,True
-441,INM-79661,Apartamento Studio,Acabados de lujo y eficiencia energética.,2379855,True
-442,INM-54493,Consultorio Médico,Ubicación estratégica en el centro financiero.,8033969,True
-443,INM-96926,Lote Urbanizado,Espacio abierto con doble altura.,1537313,True
-444,INM-11247,Penthouse,Ubicación estratégica en el centro financiero.,5117097,True
-445,INM-11865,Bodega Industrial,Acabados de lujo y eficiencia energética.,11694302,True
-446,INM-66832,Parqueadero Cubierto,Espacio abierto con doble altura.,5077064,True
-447,INM-33849,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,9331455,True
-448,INM-35942,Penthouse,Ubicado en zona norte con vista panorámica.,8452103,True
-449,INM-91594,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,10705186,True
-450,INM-19368,Lote Urbanizado,Seguridad reforzada y acceso controlado.,7496736,True
-451,INM-52281,Consultorio Médico,Ubicación estratégica en el centro financiero.,12982565,True
-452,INM-71948,Apartamento Studio,Ubicación estratégica en el centro financiero.,2327358,True
-453,INM-74178,Bodega Industrial,Área residencial tranquila con zonas verdes.,5374193,True
-454,INM-39284,Penthouse,Seguridad reforzada y acceso controlado.,7915870,True
-455,INM-42593,Casa Campestre,Seguridad reforzada y acceso controlado.,8430271,True
-456,INM-70426,Local Comercial,Ubicado en zona norte con vista panorámica.,13182579,True
-457,INM-17071,Casa Campestre,Cerca a centros comerciales y transporte público.,14851586,True
-458,INM-35696,Penthouse,Área residencial tranquila con zonas verdes.,6188311,True
-459,INM-42908,Casa Campestre,Cerca a centros comerciales y transporte público.,4601094,True
-460,INM-53090,Local Comercial,Seguridad reforzada y acceso controlado.,5047625,True
-461,INM-62910,Oficina Corporativa,Cerca a centros comerciales y transporte público.,7297539,True
-462,INM-92998,Local Comercial,Acabados de lujo y eficiencia energética.,14947038,True
-463,INM-39856,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1944296,True
-464,INM-64764,Parqueadero Cubierto,Espacio abierto con doble altura.,5265793,True
-465,INM-77041,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,5230902,True
-466,INM-42588,Casa Campestre,Seguridad reforzada y acceso controlado.,6998187,True
-467,INM-87795,Bodega Industrial,Espacio abierto con doble altura.,11599009,True
-468,INM-37931,Apartamento Studio,Espacio abierto con doble altura.,4294806,True
-469,INM-13206,Penthouse,Ubicado en zona norte con vista panorámica.,1262326,True
-470,INM-14022,Penthouse,Espacio abierto con doble altura.,1455061,True
-471,INM-31455,Bodega Industrial,Cerca a centros comerciales y transporte público.,4961086,True
-472,INM-50270,Casa Campestre,Seguridad reforzada y acceso controlado.,855734,True
-473,INM-24386,Penthouse,Acabados de lujo y eficiencia energética.,5551162,True
-474,INM-32008,Penthouse,Cerca a centros comerciales y transporte público.,7724615,True
-475,INM-87863,Local Comercial,Ubicación estratégica en el centro financiero.,12062085,True
-476,INM-77048,Oficina Corporativa,Seguridad reforzada y acceso controlado.,7584871,True
-477,INM-88188,Casa Campestre,Cerca a centros comerciales y transporte público.,1341999,True
-478,INM-33111,Consultorio Médico,Ubicación estratégica en el centro financiero.,4311873,True
-479,INM-48563,Casa Campestre,Área residencial tranquila con zonas verdes.,7121998,True
-480,INM-85096,Local Comercial,Seguridad reforzada y acceso controlado.,12141829,True
-481,INM-22160,Apartamento Studio,Cerca a centros comerciales y transporte público.,5296493,True
-482,INM-77304,Casa Campestre,Ubicado en zona norte con vista panorámica.,13463681,True
-483,INM-84378,Bodega Industrial,Ubicado en zona norte con vista panorámica.,14979864,True
-484,INM-64561,Bodega Industrial,Área residencial tranquila con zonas verdes.,14019750,True
-485,INM-59492,Casa Campestre,Cerca a centros comerciales y transporte público.,4377085,True
-486,INM-14546,Casa Campestre,Acabados de lujo y eficiencia energética.,5944631,True
-487,INM-69096,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,8335607,True
-488,INM-52644,Oficina Corporativa,Acabados de lujo y eficiencia energética.,1720626,True
-489,INM-62682,Apartamento Studio,Espacio abierto con doble altura.,1587689,True
-490,INM-59098,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,11910484,True
-491,INM-38274,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,12565116,True
-492,INM-42660,Penthouse,Ubicado en zona norte con vista panorámica.,14966736,True
-493,INM-71027,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,9874851,True
-494,INM-85428,Penthouse,Ubicado en zona norte con vista panorámica.,12899437,True
-495,INM-83982,Local Comercial,Área residencial tranquila con zonas verdes.,12612024,True
-496,INM-66727,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,9543383,True
-497,INM-90669,Consultorio Médico,Espacio abierto con doble altura.,11674357,True
-498,INM-30382,Local Comercial,Área residencial tranquila con zonas verdes.,1779146,True
-499,INM-12744,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,9408157,True
-500,INM-67896,Casa Campestre,Acabados de lujo y eficiencia energética.,5128708,True
-501,INM-96294,Bodega Industrial,Ubicado en zona norte con vista panorámica.,2992116,True
-502,INM-44894,Lote Urbanizado,Área residencial tranquila con zonas verdes.,1673163,True
-503,INM-19866,Bodega Industrial,Cerca a centros comerciales y transporte público.,11420848,True
-504,INM-25398,Consultorio Médico,Espacio abierto con doble altura.,7853513,True
-505,INM-24443,Apartamento Studio,Acabados de lujo y eficiencia energética.,9427114,True
-506,INM-19682,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,10183182,True
-507,INM-10824,Oficina Corporativa,Cerca a centros comerciales y transporte público.,12923883,True
-508,INM-83309,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,2508570,True
-509,INM-27304,Consultorio Médico,Cerca a centros comerciales y transporte público.,14577176,True
-510,INM-13856,Apartamento Studio,Ubicación estratégica en el centro financiero.,13259049,True
-511,INM-46501,Penthouse,Seguridad reforzada y acceso controlado.,5817850,True
-512,INM-10363,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,4778422,True
-513,INM-92205,Consultorio Médico,Área residencial tranquila con zonas verdes.,10437332,True
-514,INM-80181,Lote Urbanizado,Cerca a centros comerciales y transporte público.,9363448,True
-515,INM-35624,Penthouse,Ubicación estratégica en el centro financiero.,9008076,True
-516,INM-49677,Penthouse,Espacio abierto con doble altura.,11549082,True
-517,INM-22253,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,4952479,True
-518,INM-85202,Apartamento Studio,Acabados de lujo y eficiencia energética.,6765502,True
-519,INM-34797,Apartamento Studio,Acabados de lujo y eficiencia energética.,6295661,True
-520,INM-17452,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,14410298,True
-521,INM-70542,Apartamento Studio,Ubicado en zona norte con vista panorámica.,12222858,True
-522,INM-35622,Lote Urbanizado,Acabados de lujo y eficiencia energética.,4477950,True
-523,INM-65444,Bodega Industrial,Ubicado en zona norte con vista panorámica.,3777730,True
-524,INM-27099,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,2602779,True
-525,INM-43980,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,8344389,True
-526,INM-29762,Apartamento Studio,Cerca a centros comerciales y transporte público.,13571278,True
-527,INM-41357,Casa Campestre,Acabados de lujo y eficiencia energética.,10538918,True
-528,INM-96706,Apartamento Studio,Ubicado en zona norte con vista panorámica.,7649794,True
-529,INM-95748,Local Comercial,Área residencial tranquila con zonas verdes.,7666133,True
-530,INM-41954,Penthouse,Ubicación estratégica en el centro financiero.,8623557,True
-531,INM-60533,Bodega Industrial,Ubicado en zona norte con vista panorámica.,10517770,True
-532,INM-39242,Local Comercial,Ubicación estratégica en el centro financiero.,8031287,True
-533,INM-99320,Casa Campestre,Ubicado en zona norte con vista panorámica.,1335264,True
-534,INM-81796,Casa Campestre,Ubicación estratégica en el centro financiero.,5445914,True
-535,INM-27791,Parqueadero Cubierto,Espacio abierto con doble altura.,5730969,True
-536,INM-85115,Lote Urbanizado,Acabados de lujo y eficiencia energética.,10921768,True
-537,INM-12573,Penthouse,Ubicación estratégica en el centro financiero.,6992933,True
-538,INM-25957,Local Comercial,Ubicación estratégica en el centro financiero.,4616150,True
-539,INM-26006,Bodega Industrial,Ubicación estratégica en el centro financiero.,12932640,True
-540,INM-42071,Lote Urbanizado,Cerca a centros comerciales y transporte público.,6230218,True
-541,INM-18979,Bodega Industrial,Área residencial tranquila con zonas verdes.,3944469,True
-542,INM-91782,Bodega Industrial,Seguridad reforzada y acceso controlado.,4722194,True
-543,INM-65623,Lote Urbanizado,Seguridad reforzada y acceso controlado.,2112164,True
-544,INM-49166,Lote Urbanizado,Cerca a centros comerciales y transporte público.,5794947,True
-545,INM-83007,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5341817,True
-546,INM-80738,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,5645616,True
-547,INM-25596,Bodega Industrial,Ubicado en zona norte con vista panorámica.,10146765,True
-548,INM-31225,Local Comercial,Espacio abierto con doble altura.,14281775,True
-549,INM-51674,Local Comercial,Espacio abierto con doble altura.,11768818,True
-550,INM-49381,Casa Campestre,Espacio abierto con doble altura.,6613699,True
-551,INM-20353,Penthouse,Seguridad reforzada y acceso controlado.,10243773,True
-552,INM-55749,Oficina Corporativa,Seguridad reforzada y acceso controlado.,3274019,True
-553,INM-23673,Oficina Corporativa,Área residencial tranquila con zonas verdes.,10083917,True
-554,INM-23836,Consultorio Médico,Ubicación estratégica en el centro financiero.,4535212,True
-555,INM-26034,Apartamento Studio,Ubicación estratégica en el centro financiero.,9791518,True
-556,INM-25187,Lote Urbanizado,Seguridad reforzada y acceso controlado.,1927648,True
-557,INM-79176,Oficina Corporativa,Seguridad reforzada y acceso controlado.,7386789,True
-558,INM-67192,Local Comercial,Cerca a centros comerciales y transporte público.,14468153,True
-559,INM-22102,Penthouse,Espacio abierto con doble altura.,14696780,True
-560,INM-29577,Lote Urbanizado,Cerca a centros comerciales y transporte público.,5879872,True
-561,INM-53499,Bodega Industrial,Ubicación estratégica en el centro financiero.,12563812,True
-562,INM-18150,Casa Campestre,Ubicado en zona norte con vista panorámica.,8979838,True
-563,INM-50457,Bodega Industrial,Acabados de lujo y eficiencia energética.,1698038,True
-564,INM-91531,Oficina Corporativa,Cerca a centros comerciales y transporte público.,5225883,True
-565,INM-83362,Consultorio Médico,Ubicado en zona norte con vista panorámica.,7892940,True
-566,INM-70961,Oficina Corporativa,Cerca a centros comerciales y transporte público.,3020291,True
-567,INM-96605,Lote Urbanizado,Área residencial tranquila con zonas verdes.,13241911,True
-568,INM-67287,Apartamento Studio,Ubicado en zona norte con vista panorámica.,6796853,True
-569,INM-67246,Lote Urbanizado,Espacio abierto con doble altura.,14468130,True
-570,INM-86003,Bodega Industrial,Seguridad reforzada y acceso controlado.,4810832,True
-571,INM-70822,Consultorio Médico,Espacio abierto con doble altura.,10294991,True
-572,INM-27749,Casa Campestre,Espacio abierto con doble altura.,12654417,True
-573,INM-17823,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,7316514,True
-574,INM-92749,Apartamento Studio,Área residencial tranquila con zonas verdes.,3011228,True
-575,INM-38808,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,6153365,True
-576,INM-53893,Bodega Industrial,Ubicado en zona norte con vista panorámica.,10774044,True
-577,INM-34215,Local Comercial,Ubicado en zona norte con vista panorámica.,13415746,True
-578,INM-17494,Penthouse,Ubicación estratégica en el centro financiero.,9628114,True
-579,INM-44403,Apartamento Studio,Ubicado en zona norte con vista panorámica.,14858188,True
-580,INM-39822,Lote Urbanizado,Espacio abierto con doble altura.,4725002,True
-581,INM-21523,Bodega Industrial,Ubicación estratégica en el centro financiero.,2749363,True
-582,INM-47179,Lote Urbanizado,Seguridad reforzada y acceso controlado.,12876725,True
-583,INM-58349,Penthouse,Seguridad reforzada y acceso controlado.,2209286,True
-584,INM-84047,Consultorio Médico,Cerca a centros comerciales y transporte público.,6993004,True
-585,INM-80945,Oficina Corporativa,Seguridad reforzada y acceso controlado.,8961472,True
-586,INM-86147,Local Comercial,Acabados de lujo y eficiencia energética.,5362042,True
-587,INM-57543,Lote Urbanizado,Acabados de lujo y eficiencia energética.,11674912,True
-588,INM-97662,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,12021130,True
-589,INM-73537,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8486618,True
-590,INM-34203,Lote Urbanizado,Ubicación estratégica en el centro financiero.,7059736,True
-591,INM-57359,Casa Campestre,Espacio abierto con doble altura.,9517253,True
-592,INM-75186,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,10378959,True
-593,INM-71402,Lote Urbanizado,Área residencial tranquila con zonas verdes.,10273996,True
-594,INM-38890,Apartamento Studio,Acabados de lujo y eficiencia energética.,8683008,True
-595,INM-88017,Penthouse,Ubicado en zona norte con vista panorámica.,4281491,True
-596,INM-97398,Casa Campestre,Cerca a centros comerciales y transporte público.,8058533,True
-597,INM-44828,Parqueadero Cubierto,Espacio abierto con doble altura.,4085928,True
-598,INM-81647,Apartamento Studio,Seguridad reforzada y acceso controlado.,5976689,True
-599,INM-21685,Consultorio Médico,Cerca a centros comerciales y transporte público.,4746138,True
-600,INM-43575,Apartamento Studio,Espacio abierto con doble altura.,6968895,True
-601,INM-58558,Casa Campestre,Ubicado en zona norte con vista panorámica.,8636266,True
-602,INM-65248,Casa Campestre,Acabados de lujo y eficiencia energética.,3699522,True
-603,INM-23230,Bodega Industrial,Espacio abierto con doble altura.,4785709,True
-604,INM-87691,Casa Campestre,Área residencial tranquila con zonas verdes.,7170703,True
-605,INM-17368,Lote Urbanizado,Espacio abierto con doble altura.,14353771,True
-606,INM-11430,Apartamento Studio,Acabados de lujo y eficiencia energética.,2893026,True
-607,INM-34761,Apartamento Studio,Área residencial tranquila con zonas verdes.,12970927,True
-608,INM-62448,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,14355665,True
-609,INM-14847,Consultorio Médico,Seguridad reforzada y acceso controlado.,9088875,True
-610,INM-39796,Penthouse,Ubicado en zona norte con vista panorámica.,4971876,True
-611,INM-98851,Consultorio Médico,Área residencial tranquila con zonas verdes.,7737477,True
-612,INM-63196,Consultorio Médico,Acabados de lujo y eficiencia energética.,10908360,True
-613,INM-25368,Oficina Corporativa,Acabados de lujo y eficiencia energética.,1640496,True
-614,INM-58947,Oficina Corporativa,Seguridad reforzada y acceso controlado.,3787220,True
-615,INM-60029,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,5002034,True
-616,INM-98879,Local Comercial,Cerca a centros comerciales y transporte público.,14952648,True
-617,INM-38396,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,2890998,True
-618,INM-31399,Apartamento Studio,Seguridad reforzada y acceso controlado.,1901244,True
-619,INM-84041,Penthouse,Ubicado en zona norte con vista panorámica.,6884638,True
-620,INM-59827,Casa Campestre,Área residencial tranquila con zonas verdes.,5807078,True
-621,INM-77896,Bodega Industrial,Área residencial tranquila con zonas verdes.,6701557,True
-622,INM-95994,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,4233233,True
-623,INM-71838,Oficina Corporativa,Espacio abierto con doble altura.,3215600,True
-624,INM-99915,Parqueadero Cubierto,Espacio abierto con doble altura.,7351300,True
-625,INM-19481,Casa Campestre,Acabados de lujo y eficiencia energética.,8448348,True
-626,INM-63337,Bodega Industrial,Cerca a centros comerciales y transporte público.,14120971,True
-627,INM-70059,Penthouse,Espacio abierto con doble altura.,3124004,True
-628,INM-69137,Penthouse,Cerca a centros comerciales y transporte público.,8085304,True
-629,INM-68647,Oficina Corporativa,Cerca a centros comerciales y transporte público.,2083320,True
-630,INM-50121,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,12292136,True
-631,INM-99728,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6746940,True
-632,INM-59898,Penthouse,Cerca a centros comerciales y transporte público.,9271619,True
-633,INM-28261,Oficina Corporativa,Ubicación estratégica en el centro financiero.,2777650,True
-634,INM-89615,Consultorio Médico,Ubicación estratégica en el centro financiero.,4797496,True
-635,INM-80502,Lote Urbanizado,Espacio abierto con doble altura.,14074832,True
-636,INM-95011,Lote Urbanizado,Cerca a centros comerciales y transporte público.,4660253,True
-637,INM-68006,Local Comercial,Seguridad reforzada y acceso controlado.,9855273,True
-638,INM-17735,Casa Campestre,Espacio abierto con doble altura.,11961799,True
-639,INM-14579,Apartamento Studio,Ubicación estratégica en el centro financiero.,12089156,True
-640,INM-29063,Bodega Industrial,Espacio abierto con doble altura.,1904214,True
-641,INM-65617,Local Comercial,Acabados de lujo y eficiencia energética.,910577,True
-642,INM-42662,Local Comercial,Espacio abierto con doble altura.,7859210,True
-643,INM-26189,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,5107581,True
-644,INM-16789,Casa Campestre,Acabados de lujo y eficiencia energética.,4623493,True
-645,INM-29411,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,9774932,True
-646,INM-96218,Local Comercial,Área residencial tranquila con zonas verdes.,5983303,True
-647,INM-38786,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,4496122,True
-648,INM-47108,Oficina Corporativa,Cerca a centros comerciales y transporte público.,11729777,True
-649,INM-67339,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,8958945,True
-650,INM-32067,Casa Campestre,Seguridad reforzada y acceso controlado.,13392923,True
-651,INM-31646,Apartamento Studio,Espacio abierto con doble altura.,4524536,True
-652,INM-97995,Casa Campestre,Área residencial tranquila con zonas verdes.,2846320,True
-653,INM-57371,Oficina Corporativa,Cerca a centros comerciales y transporte público.,7780262,True
-654,INM-74877,Consultorio Médico,Acabados de lujo y eficiencia energética.,7228042,True
-655,INM-54055,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,9413884,True
-656,INM-73706,Apartamento Studio,Ubicación estratégica en el centro financiero.,12571391,True
-657,INM-58601,Oficina Corporativa,Espacio abierto con doble altura.,7531722,True
-658,INM-28032,Consultorio Médico,Área residencial tranquila con zonas verdes.,14871476,True
-659,INM-17907,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,3784873,True
-660,INM-95122,Bodega Industrial,Ubicado en zona norte con vista panorámica.,11858819,True
-661,INM-74480,Apartamento Studio,Acabados de lujo y eficiencia energética.,13201652,True
-662,INM-68610,Lote Urbanizado,Área residencial tranquila con zonas verdes.,11171163,True
-663,INM-28931,Local Comercial,Cerca a centros comerciales y transporte público.,10348296,True
-664,INM-45539,Casa Campestre,Acabados de lujo y eficiencia energética.,2837620,True
-665,INM-57152,Casa Campestre,Ubicado en zona norte con vista panorámica.,3703429,True
-666,INM-66672,Consultorio Médico,Área residencial tranquila con zonas verdes.,11984058,True
-667,INM-67185,Consultorio Médico,Cerca a centros comerciales y transporte público.,14287180,True
-668,INM-17749,Lote Urbanizado,Seguridad reforzada y acceso controlado.,11732139,True
-669,INM-67318,Apartamento Studio,Ubicado en zona norte con vista panorámica.,8918194,True
-670,INM-49757,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,3198613,True
-671,INM-26301,Oficina Corporativa,Seguridad reforzada y acceso controlado.,7883304,True
-672,INM-92699,Bodega Industrial,Acabados de lujo y eficiencia energética.,3215830,True
-673,INM-44171,Casa Campestre,Acabados de lujo y eficiencia energética.,7146148,True
-674,INM-98101,Apartamento Studio,Acabados de lujo y eficiencia energética.,10604282,True
-675,INM-50780,Local Comercial,Cerca a centros comerciales y transporte público.,10055416,True
-676,INM-82654,Apartamento Studio,Acabados de lujo y eficiencia energética.,1385742,True
-677,INM-79862,Casa Campestre,Seguridad reforzada y acceso controlado.,7881075,True
-678,INM-40694,Bodega Industrial,Seguridad reforzada y acceso controlado.,3281402,True
-679,INM-94629,Apartamento Studio,Seguridad reforzada y acceso controlado.,10010705,True
-680,INM-10591,Apartamento Studio,Ubicación estratégica en el centro financiero.,2164699,True
-681,INM-28241,Lote Urbanizado,Cerca a centros comerciales y transporte público.,4020344,True
-682,INM-70699,Lote Urbanizado,Seguridad reforzada y acceso controlado.,6863141,True
-683,INM-23918,Apartamento Studio,Cerca a centros comerciales y transporte público.,3091270,True
-684,INM-38279,Lote Urbanizado,Espacio abierto con doble altura.,7298975,True
-685,INM-51912,Penthouse,Ubicado en zona norte con vista panorámica.,11943683,True
-686,INM-37354,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,13955352,True
-687,INM-80276,Local Comercial,Cerca a centros comerciales y transporte público.,13127193,True
-688,INM-74650,Lote Urbanizado,Área residencial tranquila con zonas verdes.,10968866,True
-689,INM-83116,Oficina Corporativa,Ubicación estratégica en el centro financiero.,9427482,True
-690,INM-82485,Local Comercial,Área residencial tranquila con zonas verdes.,2773478,True
-691,INM-99555,Apartamento Studio,Área residencial tranquila con zonas verdes.,13045567,True
-692,INM-80964,Bodega Industrial,Ubicación estratégica en el centro financiero.,8648091,True
-693,INM-58001,Local Comercial,Cerca a centros comerciales y transporte público.,8333717,True
-694,INM-23974,Oficina Corporativa,Ubicación estratégica en el centro financiero.,5659562,True
-695,INM-31310,Bodega Industrial,Área residencial tranquila con zonas verdes.,5101985,True
-696,INM-47719,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,8318213,True
-697,INM-99210,Local Comercial,Ubicación estratégica en el centro financiero.,9751043,True
-698,INM-38480,Oficina Corporativa,Ubicación estratégica en el centro financiero.,11373122,True
-699,INM-37510,Bodega Industrial,Acabados de lujo y eficiencia energética.,5904415,True
-700,INM-17583,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,2502634,True
-701,INM-57459,Penthouse,Cerca a centros comerciales y transporte público.,13826702,True
-702,INM-28719,Casa Campestre,Acabados de lujo y eficiencia energética.,14079410,True
-703,INM-70019,Lote Urbanizado,Cerca a centros comerciales y transporte público.,3530303,True
-704,INM-25296,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,3740259,True
-705,INM-61911,Apartamento Studio,Ubicación estratégica en el centro financiero.,907708,True
-706,INM-74832,Casa Campestre,Cerca a centros comerciales y transporte público.,10491087,True
-707,INM-36695,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,3954655,True
-708,INM-88674,Bodega Industrial,Cerca a centros comerciales y transporte público.,7626391,True
-709,INM-93636,Consultorio Médico,Ubicación estratégica en el centro financiero.,3511784,True
-710,INM-12045,Local Comercial,Acabados de lujo y eficiencia energética.,4088997,True
-711,INM-32599,Casa Campestre,Ubicado en zona norte con vista panorámica.,5907404,True
-712,INM-88787,Consultorio Médico,Espacio abierto con doble altura.,10035524,True
-713,INM-65374,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,10378624,True
-714,INM-74003,Lote Urbanizado,Área residencial tranquila con zonas verdes.,6856356,True
-715,INM-36791,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,1885817,True
-716,INM-77092,Local Comercial,Seguridad reforzada y acceso controlado.,14330742,True
-717,INM-24293,Oficina Corporativa,Espacio abierto con doble altura.,9451050,True
-718,INM-44032,Local Comercial,Ubicación estratégica en el centro financiero.,12306552,True
-719,INM-88100,Casa Campestre,Ubicación estratégica en el centro financiero.,4700116,True
-720,INM-42546,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,1225411,True
-721,INM-40699,Lote Urbanizado,Espacio abierto con doble altura.,13760420,True
-722,INM-62186,Penthouse,Cerca a centros comerciales y transporte público.,6445962,True
-723,INM-57900,Local Comercial,Ubicación estratégica en el centro financiero.,2609936,True
-724,INM-20589,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5457952,True
-725,INM-38602,Consultorio Médico,Espacio abierto con doble altura.,11973171,True
-726,INM-77850,Apartamento Studio,Espacio abierto con doble altura.,10475263,True
-727,INM-65937,Consultorio Médico,Ubicación estratégica en el centro financiero.,10625858,True
-728,INM-71288,Consultorio Médico,Ubicado en zona norte con vista panorámica.,3180859,True
-729,INM-18983,Lote Urbanizado,Seguridad reforzada y acceso controlado.,1451193,True
-730,INM-95159,Parqueadero Cubierto,Espacio abierto con doble altura.,4936282,True
-731,INM-12104,Bodega Industrial,Ubicación estratégica en el centro financiero.,9239592,True
-732,INM-31911,Bodega Industrial,Seguridad reforzada y acceso controlado.,6481941,True
-733,INM-62569,Local Comercial,Área residencial tranquila con zonas verdes.,8723104,True
-734,INM-19453,Consultorio Médico,Seguridad reforzada y acceso controlado.,10913914,True
-735,INM-36368,Local Comercial,Área residencial tranquila con zonas verdes.,3427810,True
-736,INM-91584,Lote Urbanizado,Ubicación estratégica en el centro financiero.,3839975,True
-737,INM-25607,Penthouse,Ubicación estratégica en el centro financiero.,2940883,True
-738,INM-99958,Bodega Industrial,Espacio abierto con doble altura.,10662651,True
-739,INM-94926,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,10567086,True
-740,INM-15836,Local Comercial,Área residencial tranquila con zonas verdes.,13487776,True
-741,INM-96746,Casa Campestre,Área residencial tranquila con zonas verdes.,8137206,True
-742,INM-92342,Apartamento Studio,Espacio abierto con doble altura.,12969305,True
-743,INM-79151,Lote Urbanizado,Acabados de lujo y eficiencia energética.,10044518,True
-744,INM-57523,Lote Urbanizado,Área residencial tranquila con zonas verdes.,7872854,True
-745,INM-98008,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,4907207,True
-746,INM-51060,Local Comercial,Cerca a centros comerciales y transporte público.,9255636,True
-747,INM-81096,Penthouse,Acabados de lujo y eficiencia energética.,8347098,True
-748,INM-20432,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,4468620,True
-749,INM-10832,Bodega Industrial,Ubicación estratégica en el centro financiero.,11883790,True
-750,INM-66890,Local Comercial,Área residencial tranquila con zonas verdes.,8794101,True
-751,INM-51713,Consultorio Médico,Seguridad reforzada y acceso controlado.,3911498,True
-752,INM-27392,Casa Campestre,Acabados de lujo y eficiencia energética.,14042082,True
-753,INM-24754,Local Comercial,Espacio abierto con doble altura.,8232539,True
-754,INM-56412,Casa Campestre,Espacio abierto con doble altura.,12421937,True
-755,INM-98677,Local Comercial,Espacio abierto con doble altura.,4655332,True
-756,INM-26855,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,1800726,True
-757,INM-23540,Casa Campestre,Ubicación estratégica en el centro financiero.,11135114,True
-758,INM-97358,Lote Urbanizado,Ubicación estratégica en el centro financiero.,10110952,True
-759,INM-13775,Local Comercial,Seguridad reforzada y acceso controlado.,1171531,True
-760,INM-47520,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,3134505,True
-761,INM-79425,Consultorio Médico,Cerca a centros comerciales y transporte público.,13970520,True
-762,INM-25958,Apartamento Studio,Área residencial tranquila con zonas verdes.,2970098,True
-763,INM-77767,Casa Campestre,Ubicación estratégica en el centro financiero.,13746338,True
-764,INM-29587,Casa Campestre,Seguridad reforzada y acceso controlado.,13102020,True
-765,INM-81406,Consultorio Médico,Acabados de lujo y eficiencia energética.,2955352,True
-766,INM-64549,Lote Urbanizado,Espacio abierto con doble altura.,13587461,True
-767,INM-44301,Bodega Industrial,Espacio abierto con doble altura.,5579465,True
-768,INM-15053,Casa Campestre,Área residencial tranquila con zonas verdes.,8006620,True
-769,INM-19433,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,10618672,True
-770,INM-58684,Casa Campestre,Ubicado en zona norte con vista panorámica.,1260156,True
-771,INM-81245,Oficina Corporativa,Seguridad reforzada y acceso controlado.,8890223,True
-772,INM-65245,Casa Campestre,Seguridad reforzada y acceso controlado.,12415946,True
-773,INM-31898,Apartamento Studio,Cerca a centros comerciales y transporte público.,12979771,True
-774,INM-61587,Penthouse,Área residencial tranquila con zonas verdes.,6815020,True
-775,INM-56823,Casa Campestre,Cerca a centros comerciales y transporte público.,5060223,True
-776,INM-44908,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,11015608,True
-777,INM-96022,Penthouse,Ubicación estratégica en el centro financiero.,14404282,True
-778,INM-56956,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,12820785,True
-779,INM-84251,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,9079416,True
-780,INM-50248,Oficina Corporativa,Ubicación estratégica en el centro financiero.,8015693,True
-781,INM-96101,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,6329523,True
-782,INM-75906,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,14717588,True
-783,INM-67276,Oficina Corporativa,Espacio abierto con doble altura.,14135983,True
-784,INM-88136,Apartamento Studio,Espacio abierto con doble altura.,12437711,True
-785,INM-23066,Local Comercial,Espacio abierto con doble altura.,14714108,True
-786,INM-96389,Lote Urbanizado,Ubicación estratégica en el centro financiero.,6146373,True
-787,INM-12491,Local Comercial,Ubicación estratégica en el centro financiero.,10242896,True
-788,INM-20271,Penthouse,Área residencial tranquila con zonas verdes.,8053972,True
-789,INM-11477,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7527007,True
-790,INM-75611,Consultorio Médico,Cerca a centros comerciales y transporte público.,9759539,True
-791,INM-24609,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,4107304,True
-792,INM-23890,Lote Urbanizado,Ubicación estratégica en el centro financiero.,10504533,True
-793,INM-46936,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,3033442,True
-794,INM-66989,Oficina Corporativa,Acabados de lujo y eficiencia energética.,11822169,True
-795,INM-47739,Penthouse,Cerca a centros comerciales y transporte público.,10980515,True
-796,INM-45058,Local Comercial,Seguridad reforzada y acceso controlado.,5656638,True
-797,INM-44147,Local Comercial,Ubicación estratégica en el centro financiero.,14241443,True
-798,INM-31454,Oficina Corporativa,Seguridad reforzada y acceso controlado.,9338278,True
-799,INM-36603,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,11606397,True
-800,INM-33194,Consultorio Médico,Área residencial tranquila con zonas verdes.,10060744,True
-801,INM-16650,Parqueadero Cubierto,Espacio abierto con doble altura.,14897786,True
-802,INM-70815,Local Comercial,Ubicado en zona norte con vista panorámica.,9801632,True
-803,INM-89600,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,7517174,True
-804,INM-28670,Penthouse,Cerca a centros comerciales y transporte público.,1234553,True
-805,INM-38419,Penthouse,Acabados de lujo y eficiencia energética.,13042457,True
-806,INM-71388,Oficina Corporativa,Ubicación estratégica en el centro financiero.,14264129,True
-807,INM-11353,Parqueadero Cubierto,Espacio abierto con doble altura.,11137503,True
-808,INM-60299,Apartamento Studio,Cerca a centros comerciales y transporte público.,7883654,True
-809,INM-65290,Oficina Corporativa,Ubicación estratégica en el centro financiero.,1647491,True
-810,INM-73557,Apartamento Studio,Cerca a centros comerciales y transporte público.,10678969,True
-811,INM-22516,Local Comercial,Ubicado en zona norte con vista panorámica.,831415,True
-812,INM-83598,Local Comercial,Cerca a centros comerciales y transporte público.,10481141,True
-813,INM-13731,Lote Urbanizado,Acabados de lujo y eficiencia energética.,14237501,True
-814,INM-64428,Consultorio Médico,Acabados de lujo y eficiencia energética.,6688104,True
-815,INM-56862,Bodega Industrial,Ubicación estratégica en el centro financiero.,12554038,True
-816,INM-61092,Consultorio Médico,Área residencial tranquila con zonas verdes.,1609880,True
-817,INM-98701,Apartamento Studio,Cerca a centros comerciales y transporte público.,14965774,True
-818,INM-50851,Oficina Corporativa,Ubicación estratégica en el centro financiero.,5054396,True
-819,INM-88405,Lote Urbanizado,Cerca a centros comerciales y transporte público.,5919353,True
-820,INM-45079,Bodega Industrial,Área residencial tranquila con zonas verdes.,13222744,True
-821,INM-85493,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,1266244,True
-822,INM-87083,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,14934349,True
-823,INM-91558,Apartamento Studio,Cerca a centros comerciales y transporte público.,5085708,True
-824,INM-97637,Penthouse,Ubicación estratégica en el centro financiero.,8934929,True
-825,INM-95961,Bodega Industrial,Cerca a centros comerciales y transporte público.,5019838,True
-826,INM-30265,Casa Campestre,Espacio abierto con doble altura.,6724151,True
-827,INM-36009,Bodega Industrial,Cerca a centros comerciales y transporte público.,5125609,True
-828,INM-65239,Bodega Industrial,Espacio abierto con doble altura.,6683043,True
-829,INM-35994,Consultorio Médico,Acabados de lujo y eficiencia energética.,12193623,True
-830,INM-39452,Parqueadero Cubierto,Espacio abierto con doble altura.,7151864,True
-831,INM-75046,Lote Urbanizado,Acabados de lujo y eficiencia energética.,12881423,True
-832,INM-13323,Lote Urbanizado,Acabados de lujo y eficiencia energética.,2630881,True
-833,INM-56478,Bodega Industrial,Ubicado en zona norte con vista panorámica.,14448589,True
-834,INM-10402,Penthouse,Cerca a centros comerciales y transporte público.,1056733,True
-835,INM-48732,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,8633147,True
-836,INM-52197,Casa Campestre,Acabados de lujo y eficiencia energética.,8714340,True
-837,INM-25907,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,8498435,True
-838,INM-97090,Local Comercial,Área residencial tranquila con zonas verdes.,10459661,True
-839,INM-40021,Bodega Industrial,Espacio abierto con doble altura.,5422482,True
-840,INM-19581,Local Comercial,Área residencial tranquila con zonas verdes.,9507244,True
-841,INM-88182,Consultorio Médico,Acabados de lujo y eficiencia energética.,5628649,True
-842,INM-26737,Local Comercial,Ubicación estratégica en el centro financiero.,7797790,True
-843,INM-40206,Consultorio Médico,Ubicación estratégica en el centro financiero.,7001149,True
-844,INM-97564,Oficina Corporativa,Seguridad reforzada y acceso controlado.,6586849,True
-845,INM-99995,Casa Campestre,Área residencial tranquila con zonas verdes.,11868569,True
-846,INM-98259,Casa Campestre,Ubicado en zona norte con vista panorámica.,889883,True
-847,INM-27751,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6346965,True
-848,INM-66641,Apartamento Studio,Ubicado en zona norte con vista panorámica.,9022815,True
-849,INM-93527,Local Comercial,Ubicado en zona norte con vista panorámica.,8691125,True
-850,INM-97849,Bodega Industrial,Acabados de lujo y eficiencia energética.,3525477,True
-851,INM-21631,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,8737681,True
-852,INM-83957,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,6083138,True
-853,INM-67000,Bodega Industrial,Seguridad reforzada y acceso controlado.,14469235,True
-854,INM-58468,Lote Urbanizado,Cerca a centros comerciales y transporte público.,8889164,True
-855,INM-74258,Casa Campestre,Ubicado en zona norte con vista panorámica.,1232432,True
-856,INM-11968,Bodega Industrial,Seguridad reforzada y acceso controlado.,8100018,True
-857,INM-43330,Local Comercial,Ubicación estratégica en el centro financiero.,3736018,True
-858,INM-53835,Casa Campestre,Área residencial tranquila con zonas verdes.,7460069,True
-859,INM-97674,Bodega Industrial,Ubicación estratégica en el centro financiero.,11773862,True
-860,INM-85860,Apartamento Studio,Área residencial tranquila con zonas verdes.,4649416,True
-861,INM-88133,Bodega Industrial,Espacio abierto con doble altura.,6918697,True
-862,INM-88607,Consultorio Médico,Ubicado en zona norte con vista panorámica.,7604567,True
-863,INM-16104,Local Comercial,Ubicación estratégica en el centro financiero.,13390505,True
-864,INM-94838,Oficina Corporativa,Seguridad reforzada y acceso controlado.,10321509,True
-865,INM-89653,Bodega Industrial,Cerca a centros comerciales y transporte público.,14396471,True
-866,INM-67499,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,3750200,True
-867,INM-25662,Penthouse,Cerca a centros comerciales y transporte público.,14159708,True
-868,INM-32437,Lote Urbanizado,Ubicación estratégica en el centro financiero.,9699205,True
-869,INM-88381,Casa Campestre,Área residencial tranquila con zonas verdes.,6828962,True
-870,INM-92575,Consultorio Médico,Acabados de lujo y eficiencia energética.,7203097,True
-871,INM-21858,Penthouse,Seguridad reforzada y acceso controlado.,14985270,True
-872,INM-52783,Consultorio Médico,Ubicado en zona norte con vista panorámica.,5937493,True
-873,INM-98769,Casa Campestre,Cerca a centros comerciales y transporte público.,12798101,True
-874,INM-11094,Local Comercial,Ubicación estratégica en el centro financiero.,8808538,True
-875,INM-42417,Consultorio Médico,Ubicación estratégica en el centro financiero.,12714037,True
-876,INM-14334,Penthouse,Seguridad reforzada y acceso controlado.,12303165,True
-877,INM-41993,Penthouse,Ubicado en zona norte con vista panorámica.,1318074,True
-878,INM-67990,Parqueadero Cubierto,Espacio abierto con doble altura.,11751322,True
-879,INM-63378,Bodega Industrial,Cerca a centros comerciales y transporte público.,9785270,True
-880,INM-39140,Consultorio Médico,Acabados de lujo y eficiencia energética.,1933530,True
-881,INM-53953,Casa Campestre,Área residencial tranquila con zonas verdes.,10671247,True
-882,INM-52635,Lote Urbanizado,Cerca a centros comerciales y transporte público.,8497297,True
-883,INM-70882,Penthouse,Espacio abierto con doble altura.,9715307,True
-884,INM-59732,Bodega Industrial,Área residencial tranquila con zonas verdes.,5164755,True
-885,INM-92995,Consultorio Médico,Acabados de lujo y eficiencia energética.,5933780,True
-886,INM-35076,Local Comercial,Cerca a centros comerciales y transporte público.,6636774,True
-887,INM-22948,Casa Campestre,Espacio abierto con doble altura.,1896600,True
-888,INM-21720,Casa Campestre,Cerca a centros comerciales y transporte público.,6568266,True
-889,INM-44446,Bodega Industrial,Ubicación estratégica en el centro financiero.,13014060,True
-890,INM-35497,Local Comercial,Acabados de lujo y eficiencia energética.,6425285,True
-891,INM-49176,Bodega Industrial,Cerca a centros comerciales y transporte público.,13056343,True
-892,INM-18384,Bodega Industrial,Seguridad reforzada y acceso controlado.,8194326,True
-893,INM-20596,Penthouse,Acabados de lujo y eficiencia energética.,14039440,True
-894,INM-60593,Penthouse,Espacio abierto con doble altura.,8709275,True
-895,INM-93569,Penthouse,Acabados de lujo y eficiencia energética.,3505718,True
-896,INM-63671,Apartamento Studio,Acabados de lujo y eficiencia energética.,10567316,True
-897,INM-63306,Apartamento Studio,Ubicación estratégica en el centro financiero.,975739,True
-898,INM-55386,Casa Campestre,Espacio abierto con doble altura.,9133632,True
-899,INM-46262,Casa Campestre,Cerca a centros comerciales y transporte público.,6740361,True
-900,INM-23589,Lote Urbanizado,Cerca a centros comerciales y transporte público.,8273012,True
-901,INM-55618,Oficina Corporativa,Cerca a centros comerciales y transporte público.,3788606,True
-902,INM-63445,Local Comercial,Ubicación estratégica en el centro financiero.,8650035,True
-903,INM-93288,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,7989315,True
-904,INM-29417,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,10390365,True
-905,INM-72402,Casa Campestre,Seguridad reforzada y acceso controlado.,4876028,True
-906,INM-42564,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,3302998,True
-907,INM-31000,Casa Campestre,Acabados de lujo y eficiencia energética.,12423313,True
-908,INM-59877,Lote Urbanizado,Ubicación estratégica en el centro financiero.,7531889,True
-909,INM-92725,Penthouse,Ubicación estratégica en el centro financiero.,13485970,True
-910,INM-23930,Bodega Industrial,Seguridad reforzada y acceso controlado.,4208472,True
-911,INM-94046,Casa Campestre,Área residencial tranquila con zonas verdes.,8100447,True
-912,INM-11574,Bodega Industrial,Cerca a centros comerciales y transporte público.,14647869,True
-913,INM-53253,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6951446,True
-914,INM-83677,Oficina Corporativa,Área residencial tranquila con zonas verdes.,14735597,True
-915,INM-18226,Consultorio Médico,Ubicado en zona norte con vista panorámica.,11094122,True
-916,INM-21598,Bodega Industrial,Acabados de lujo y eficiencia energética.,5387624,True
-917,INM-57838,Lote Urbanizado,Espacio abierto con doble altura.,3560586,True
-918,INM-55632,Local Comercial,Área residencial tranquila con zonas verdes.,3254229,True
-919,INM-84971,Casa Campestre,Área residencial tranquila con zonas verdes.,12419822,True
-920,INM-38625,Penthouse,Acabados de lujo y eficiencia energética.,3157255,True
-921,INM-70538,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8762081,True
-922,INM-68307,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,14645669,True
-923,INM-38855,Consultorio Médico,Espacio abierto con doble altura.,3422244,True
-924,INM-35802,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,11189467,True
-925,INM-13697,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,7099803,True
-926,INM-28214,Penthouse,Área residencial tranquila con zonas verdes.,1688875,True
-927,INM-65312,Local Comercial,Cerca a centros comerciales y transporte público.,10963013,True
-928,INM-18275,Penthouse,Espacio abierto con doble altura.,9576770,True
-929,INM-24645,Casa Campestre,Espacio abierto con doble altura.,2589417,True
-930,INM-24307,Penthouse,Espacio abierto con doble altura.,11313040,True
-931,INM-22650,Local Comercial,Ubicado en zona norte con vista panorámica.,5118670,True
-932,INM-91790,Lote Urbanizado,Área residencial tranquila con zonas verdes.,3782266,True
-933,INM-24488,Casa Campestre,Cerca a centros comerciales y transporte público.,6376744,True
-934,INM-34743,Oficina Corporativa,Espacio abierto con doble altura.,4458946,True
-935,INM-35183,Apartamento Studio,Ubicación estratégica en el centro financiero.,8123690,True
-936,INM-89380,Parqueadero Cubierto,Espacio abierto con doble altura.,14607061,True
-937,INM-68543,Local Comercial,Acabados de lujo y eficiencia energética.,7178732,True
-938,INM-44244,Local Comercial,Seguridad reforzada y acceso controlado.,3086672,True
-939,INM-53576,Apartamento Studio,Acabados de lujo y eficiencia energética.,12213717,True
-940,INM-49762,Casa Campestre,Espacio abierto con doble altura.,11896537,True
-941,INM-67018,Penthouse,Ubicado en zona norte con vista panorámica.,6544417,True
-942,INM-88175,Casa Campestre,Ubicación estratégica en el centro financiero.,5665264,True
-943,INM-26195,Bodega Industrial,Ubicado en zona norte con vista panorámica.,12043684,True
-944,INM-15954,Local Comercial,Espacio abierto con doble altura.,8531849,True
-945,INM-26055,Consultorio Médico,Cerca a centros comerciales y transporte público.,11809909,True
-946,INM-79674,Consultorio Médico,Ubicado en zona norte con vista panorámica.,3525236,True
-947,INM-72540,Local Comercial,Cerca a centros comerciales y transporte público.,11980231,True
-948,INM-24243,Casa Campestre,Seguridad reforzada y acceso controlado.,12296121,True
-949,INM-85844,Casa Campestre,Ubicado en zona norte con vista panorámica.,9590300,True
-950,INM-18985,Casa Campestre,Área residencial tranquila con zonas verdes.,9553627,True
-951,INM-15797,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,994769,True
-952,INM-82324,Penthouse,Ubicado en zona norte con vista panorámica.,8016186,True
-953,INM-65701,Consultorio Médico,Seguridad reforzada y acceso controlado.,14092946,True
-954,INM-90190,Consultorio Médico,Cerca a centros comerciales y transporte público.,1337630,True
-955,INM-83865,Consultorio Médico,Ubicado en zona norte con vista panorámica.,5025159,True
-956,INM-98427,Consultorio Médico,Seguridad reforzada y acceso controlado.,7749122,True
-957,INM-73657,Oficina Corporativa,Ubicación estratégica en el centro financiero.,12261816,True
-958,INM-13860,Oficina Corporativa,Cerca a centros comerciales y transporte público.,4391567,True
-959,INM-84699,Lote Urbanizado,Ubicación estratégica en el centro financiero.,9524166,True
-960,INM-80872,Local Comercial,Acabados de lujo y eficiencia energética.,12761852,True
-961,INM-24404,Casa Campestre,Ubicación estratégica en el centro financiero.,11341535,True
-962,INM-23495,Consultorio Médico,Cerca a centros comerciales y transporte público.,13318153,True
-963,INM-35307,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,11364242,True
-964,INM-78658,Local Comercial,Ubicación estratégica en el centro financiero.,7615318,True
-965,INM-26624,Lote Urbanizado,Espacio abierto con doble altura.,12393783,True
-966,INM-35716,Bodega Industrial,Ubicado en zona norte con vista panorámica.,13332800,True
-967,INM-67883,Casa Campestre,Ubicado en zona norte con vista panorámica.,6375811,True
-968,INM-43611,Bodega Industrial,Cerca a centros comerciales y transporte público.,1434499,True
-969,INM-81211,Consultorio Médico,Seguridad reforzada y acceso controlado.,4446305,True
-970,INM-96005,Bodega Industrial,Ubicación estratégica en el centro financiero.,4898825,True
-971,INM-72631,Local Comercial,Espacio abierto con doble altura.,12378678,True
-972,INM-30635,Oficina Corporativa,Cerca a centros comerciales y transporte público.,14146313,True
-973,INM-49269,Lote Urbanizado,Ubicación estratégica en el centro financiero.,10774029,True
-974,INM-60199,Apartamento Studio,Seguridad reforzada y acceso controlado.,3201894,True
-975,INM-33757,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,9386960,True
-976,INM-17376,Bodega Industrial,Seguridad reforzada y acceso controlado.,7140250,True
-977,INM-51278,Oficina Corporativa,Seguridad reforzada y acceso controlado.,4635787,True
-978,INM-41941,Local Comercial,Acabados de lujo y eficiencia energética.,5987547,True
-979,INM-93978,Bodega Industrial,Área residencial tranquila con zonas verdes.,6669371,True
-980,INM-56022,Local Comercial,Área residencial tranquila con zonas verdes.,13610492,True
-981,INM-85023,Apartamento Studio,Área residencial tranquila con zonas verdes.,6056741,True
-982,INM-66469,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,4257894,True
-983,INM-26898,Oficina Corporativa,Área residencial tranquila con zonas verdes.,6498546,True
-984,INM-83200,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,10565129,True
-985,INM-39512,Oficina Corporativa,Espacio abierto con doble altura.,14527937,True
-986,INM-86915,Lote Urbanizado,Espacio abierto con doble altura.,5865065,True
-987,INM-95829,Local Comercial,Seguridad reforzada y acceso controlado.,7817611,True
-988,INM-63628,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,3522702,True
-989,INM-79047,Apartamento Studio,Ubicación estratégica en el centro financiero.,12466528,True
-990,INM-53279,Bodega Industrial,Área residencial tranquila con zonas verdes.,10050868,True
-991,INM-66608,Bodega Industrial,Ubicado en zona norte con vista panorámica.,1824596,True
-992,INM-34653,Oficina Corporativa,Ubicación estratégica en el centro financiero.,13342380,True
-993,INM-18133,Apartamento Studio,Seguridad reforzada y acceso controlado.,3779455,True
-994,INM-13928,Casa Campestre,Seguridad reforzada y acceso controlado.,13341652,True
-995,INM-16040,Oficina Corporativa,Área residencial tranquila con zonas verdes.,11033383,True
-996,INM-50024,Consultorio Médico,Área residencial tranquila con zonas verdes.,12807914,True
-997,INM-69783,Apartamento Studio,Espacio abierto con doble altura.,7699964,True
-998,INM-45126,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,2845649,True
-999,INM-55838,Lote Urbanizado,Acabados de lujo y eficiencia energética.,7014246,True
-1000,INM-30870,Oficina Corporativa,Seguridad reforzada y acceso controlado.,3699864,True
+1,INM-70364,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,10188747,True
+2,INM-28887,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,9222292,True
+3,INM-93666,Oficina Corporativa,Seguridad reforzada y acceso controlado.,12867984,True
+4,INM-15647,Oficina Corporativa,Espacio abierto con doble altura.,1625472,True
+5,INM-95503,Local Comercial,Acabados de lujo y eficiencia energética.,8185484,True
+6,INM-77635,Local Comercial,Cerca a centros comerciales y transporte público.,5558335,True
+7,INM-29843,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,3437318,True
+8,INM-56063,Penthouse,Ubicado en zona norte con vista panorámica.,13831534,True
+9,INM-40969,Casa Campestre,Ubicación estratégica en el centro financiero.,14004687,True
+10,INM-95719,Consultorio Médico,Cerca a centros comerciales y transporte público.,11753934,True
+11,INM-70792,Lote Urbanizado,Ubicación estratégica en el centro financiero.,7564630,True
+12,INM-98464,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,801665,True
+13,INM-36471,Local Comercial,Ubicación estratégica en el centro financiero.,11184939,True
+14,INM-47733,Consultorio Médico,Espacio abierto con doble altura.,13722998,True
+15,INM-99795,Penthouse,Acabados de lujo y eficiencia energética.,11307923,True
+16,INM-46932,Casa Campestre,Acabados de lujo y eficiencia energética.,12784222,True
+17,INM-31833,Bodega Industrial,Espacio abierto con doble altura.,5527689,True
+18,INM-42506,Casa Campestre,Acabados de lujo y eficiencia energética.,11802329,True
+19,INM-21309,Local Comercial,Área residencial tranquila con zonas verdes.,2361809,True
+20,INM-28830,Bodega Industrial,Ubicación estratégica en el centro financiero.,6072327,True
+21,INM-64246,Local Comercial,Ubicado en zona norte con vista panorámica.,5299709,True
+22,INM-45303,Local Comercial,Espacio abierto con doble altura.,12347602,True
+23,INM-24323,Local Comercial,Ubicación estratégica en el centro financiero.,3026832,True
+24,INM-95811,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,13392853,True
+25,INM-49249,Bodega Industrial,Cerca a centros comerciales y transporte público.,10866980,True
+26,INM-22188,Penthouse,Área residencial tranquila con zonas verdes.,8039526,True
+27,INM-79372,Lote Urbanizado,Área residencial tranquila con zonas verdes.,1651686,True
+28,INM-52452,Penthouse,Seguridad reforzada y acceso controlado.,8517854,True
+29,INM-79690,Casa Campestre,Área residencial tranquila con zonas verdes.,12605263,True
+30,INM-50023,Oficina Corporativa,Cerca a centros comerciales y transporte público.,3761961,True
+31,INM-97112,Bodega Industrial,Ubicación estratégica en el centro financiero.,14767890,True
+32,INM-18839,Local Comercial,Cerca a centros comerciales y transporte público.,14331463,True
+33,INM-36240,Apartamento Studio,Cerca a centros comerciales y transporte público.,5868110,True
+34,INM-30731,Penthouse,Cerca a centros comerciales y transporte público.,918835,True
+35,INM-63224,Parqueadero Cubierto,Espacio abierto con doble altura.,2312413,True
+36,INM-17755,Oficina Corporativa,Acabados de lujo y eficiencia energética.,5868524,True
+37,INM-19691,Consultorio Médico,Ubicado en zona norte con vista panorámica.,9262872,True
+38,INM-97715,Penthouse,Cerca a centros comerciales y transporte público.,7238363,True
+39,INM-98848,Casa Campestre,Acabados de lujo y eficiencia energética.,7091114,True
+40,INM-43866,Apartamento Studio,Ubicado en zona norte con vista panorámica.,2104713,True
+41,INM-55740,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,5910669,True
+42,INM-58047,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5502850,True
+43,INM-79411,Oficina Corporativa,Acabados de lujo y eficiencia energética.,5363156,True
+44,INM-20746,Consultorio Médico,Cerca a centros comerciales y transporte público.,1010816,True
+45,INM-12949,Apartamento Studio,Cerca a centros comerciales y transporte público.,6440720,True
+46,INM-91641,Bodega Industrial,Ubicación estratégica en el centro financiero.,13282418,True
+47,INM-22186,Apartamento Studio,Seguridad reforzada y acceso controlado.,8538156,True
+48,INM-22377,Bodega Industrial,Cerca a centros comerciales y transporte público.,13032099,True
+49,INM-47539,Penthouse,Cerca a centros comerciales y transporte público.,1557730,True
+50,INM-75952,Consultorio Médico,Ubicación estratégica en el centro financiero.,7976109,True
+51,INM-15782,Apartamento Studio,Seguridad reforzada y acceso controlado.,8551543,True
+52,INM-62831,Local Comercial,Seguridad reforzada y acceso controlado.,8368569,True
+53,INM-95310,Penthouse,Ubicado en zona norte con vista panorámica.,9602367,True
+54,INM-11185,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,5246498,True
+55,INM-29548,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,9848918,True
+56,INM-47002,Consultorio Médico,Ubicado en zona norte con vista panorámica.,11029312,True
+57,INM-15743,Lote Urbanizado,Área residencial tranquila con zonas verdes.,14098992,True
+58,INM-25521,Lote Urbanizado,Seguridad reforzada y acceso controlado.,8777658,True
+59,INM-73399,Casa Campestre,Espacio abierto con doble altura.,12582160,True
+60,INM-23048,Apartamento Studio,Ubicado en zona norte con vista panorámica.,6863587,True
+61,INM-87329,Penthouse,Ubicado en zona norte con vista panorámica.,6804711,True
+62,INM-52803,Casa Campestre,Área residencial tranquila con zonas verdes.,10687108,True
+63,INM-76515,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,6606903,True
+64,INM-63300,Bodega Industrial,Espacio abierto con doble altura.,3542256,True
+65,INM-47030,Consultorio Médico,Seguridad reforzada y acceso controlado.,9508755,True
+66,INM-27477,Bodega Industrial,Ubicado en zona norte con vista panorámica.,13249679,True
+67,INM-20307,Penthouse,Ubicación estratégica en el centro financiero.,5537176,True
+68,INM-73973,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,6615196,True
+69,INM-25298,Consultorio Médico,Espacio abierto con doble altura.,9113247,True
+70,INM-71043,Oficina Corporativa,Acabados de lujo y eficiencia energética.,6301939,True
+71,INM-87427,Lote Urbanizado,Ubicación estratégica en el centro financiero.,2694505,True
+72,INM-77997,Parqueadero Cubierto,Espacio abierto con doble altura.,9856857,True
+73,INM-95408,Apartamento Studio,Cerca a centros comerciales y transporte público.,10529537,True
+74,INM-26762,Oficina Corporativa,Seguridad reforzada y acceso controlado.,4318123,True
+75,INM-18216,Local Comercial,Acabados de lujo y eficiencia energética.,9630741,True
+76,INM-30796,Bodega Industrial,Espacio abierto con doble altura.,14082324,True
+77,INM-71856,Lote Urbanizado,Ubicación estratégica en el centro financiero.,12387057,True
+78,INM-48221,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,5265734,True
+79,INM-90449,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,14379931,True
+80,INM-64481,Apartamento Studio,Acabados de lujo y eficiencia energética.,7289302,True
+81,INM-15348,Apartamento Studio,Ubicado en zona norte con vista panorámica.,12772530,True
+82,INM-51719,Lote Urbanizado,Cerca a centros comerciales y transporte público.,14561905,True
+83,INM-17847,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,9816777,True
+84,INM-64375,Lote Urbanizado,Espacio abierto con doble altura.,7580145,True
+85,INM-78020,Bodega Industrial,Acabados de lujo y eficiencia energética.,13651319,True
+86,INM-74474,Local Comercial,Espacio abierto con doble altura.,6051727,True
+87,INM-95105,Apartamento Studio,Ubicación estratégica en el centro financiero.,11189029,True
+88,INM-19075,Consultorio Médico,Seguridad reforzada y acceso controlado.,4896911,True
+89,INM-52636,Apartamento Studio,Seguridad reforzada y acceso controlado.,9425014,True
+90,INM-21325,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,7458586,True
+91,INM-98032,Consultorio Médico,Ubicación estratégica en el centro financiero.,6185550,True
+92,INM-39434,Lote Urbanizado,Espacio abierto con doble altura.,8563967,True
+93,INM-43876,Local Comercial,Seguridad reforzada y acceso controlado.,1566911,True
+94,INM-10774,Local Comercial,Cerca a centros comerciales y transporte público.,3306543,True
+95,INM-14472,Penthouse,Área residencial tranquila con zonas verdes.,13496914,True
+96,INM-50063,Lote Urbanizado,Seguridad reforzada y acceso controlado.,4472304,True
+97,INM-13895,Apartamento Studio,Ubicado en zona norte con vista panorámica.,13757768,True
+98,INM-84416,Local Comercial,Seguridad reforzada y acceso controlado.,9572991,True
+99,INM-63029,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,13700613,True
+100,INM-55741,Penthouse,Cerca a centros comerciales y transporte público.,11131696,True
+101,INM-79188,Consultorio Médico,Ubicado en zona norte con vista panorámica.,11533759,True
+102,INM-97155,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7434232,True
+103,INM-94286,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,11632530,True
+104,INM-20448,Local Comercial,Área residencial tranquila con zonas verdes.,7230817,True
+105,INM-21440,Parqueadero Cubierto,Espacio abierto con doble altura.,5816818,True
+106,INM-11971,Penthouse,Área residencial tranquila con zonas verdes.,12804590,True
+107,INM-60562,Apartamento Studio,Acabados de lujo y eficiencia energética.,12969278,True
+108,INM-92679,Local Comercial,Área residencial tranquila con zonas verdes.,8479492,True
+109,INM-10794,Bodega Industrial,Seguridad reforzada y acceso controlado.,7352630,True
+110,INM-14061,Oficina Corporativa,Seguridad reforzada y acceso controlado.,11896873,True
+111,INM-55139,Penthouse,Área residencial tranquila con zonas verdes.,6819912,True
+112,INM-53016,Consultorio Médico,Cerca a centros comerciales y transporte público.,2650565,True
+113,INM-50104,Local Comercial,Acabados de lujo y eficiencia energética.,1712988,True
+114,INM-92721,Casa Campestre,Ubicación estratégica en el centro financiero.,10750744,True
+115,INM-78171,Lote Urbanizado,Espacio abierto con doble altura.,855262,True
+116,INM-35333,Bodega Industrial,Cerca a centros comerciales y transporte público.,4549455,True
+117,INM-60431,Penthouse,Ubicado en zona norte con vista panorámica.,3462791,True
+118,INM-82145,Consultorio Médico,Espacio abierto con doble altura.,9996922,True
+119,INM-96840,Lote Urbanizado,Acabados de lujo y eficiencia energética.,11002049,True
+120,INM-52799,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,9060606,True
+121,INM-21639,Penthouse,Acabados de lujo y eficiencia energética.,1353679,True
+122,INM-22685,Apartamento Studio,Cerca a centros comerciales y transporte público.,5238376,True
+123,INM-35528,Casa Campestre,Cerca a centros comerciales y transporte público.,6508448,True
+124,INM-92581,Bodega Industrial,Ubicación estratégica en el centro financiero.,932347,True
+125,INM-78259,Apartamento Studio,Seguridad reforzada y acceso controlado.,3448406,True
+126,INM-60546,Lote Urbanizado,Seguridad reforzada y acceso controlado.,8675699,True
+127,INM-46185,Penthouse,Acabados de lujo y eficiencia energética.,12924807,True
+128,INM-92542,Penthouse,Espacio abierto con doble altura.,11818272,True
+129,INM-23395,Apartamento Studio,Seguridad reforzada y acceso controlado.,952247,True
+130,INM-88757,Casa Campestre,Espacio abierto con doble altura.,12955839,True
+131,INM-49048,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,1562716,True
+132,INM-93312,Bodega Industrial,Seguridad reforzada y acceso controlado.,5361416,True
+133,INM-56750,Consultorio Médico,Acabados de lujo y eficiencia energética.,1797312,True
+134,INM-61375,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,12128545,True
+135,INM-16972,Parqueadero Cubierto,Espacio abierto con doble altura.,11432390,True
+136,INM-14710,Consultorio Médico,Ubicado en zona norte con vista panorámica.,9602993,True
+137,INM-89059,Lote Urbanizado,Ubicación estratégica en el centro financiero.,3632547,True
+138,INM-15862,Local Comercial,Seguridad reforzada y acceso controlado.,1871258,True
+139,INM-41707,Lote Urbanizado,Seguridad reforzada y acceso controlado.,8898974,True
+140,INM-38647,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,12738166,True
+141,INM-59794,Apartamento Studio,Ubicación estratégica en el centro financiero.,7251795,True
+142,INM-63063,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1601827,True
+143,INM-28397,Penthouse,Espacio abierto con doble altura.,3934252,True
+144,INM-45904,Local Comercial,Ubicación estratégica en el centro financiero.,2643667,True
+145,INM-68664,Apartamento Studio,Cerca a centros comerciales y transporte público.,9447860,True
+146,INM-79972,Local Comercial,Cerca a centros comerciales y transporte público.,4173171,True
+147,INM-32754,Apartamento Studio,Espacio abierto con doble altura.,4378933,True
+148,INM-22211,Local Comercial,Espacio abierto con doble altura.,13819014,True
+149,INM-19189,Apartamento Studio,Ubicado en zona norte con vista panorámica.,13760857,True
+150,INM-14563,Bodega Industrial,Seguridad reforzada y acceso controlado.,8743628,True
+151,INM-88794,Casa Campestre,Área residencial tranquila con zonas verdes.,7677524,True
+152,INM-25810,Consultorio Médico,Ubicación estratégica en el centro financiero.,3236587,True
+153,INM-57578,Local Comercial,Ubicado en zona norte con vista panorámica.,6396855,True
+154,INM-88279,Local Comercial,Acabados de lujo y eficiencia energética.,11826456,True
+155,INM-67390,Oficina Corporativa,Acabados de lujo y eficiencia energética.,9586283,True
+156,INM-57230,Local Comercial,Ubicado en zona norte con vista panorámica.,12193552,True
+157,INM-95450,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8229701,True
+158,INM-47075,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,10953882,True
+159,INM-58795,Apartamento Studio,Acabados de lujo y eficiencia energética.,4531229,True
+160,INM-39575,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,7612080,True
+161,INM-46307,Local Comercial,Cerca a centros comerciales y transporte público.,2458117,True
+162,INM-28456,Casa Campestre,Seguridad reforzada y acceso controlado.,11271614,True
+163,INM-96139,Apartamento Studio,Cerca a centros comerciales y transporte público.,8518506,True
+164,INM-30203,Penthouse,Ubicación estratégica en el centro financiero.,7745713,True
+165,INM-35590,Consultorio Médico,Seguridad reforzada y acceso controlado.,14964157,True
+166,INM-53047,Apartamento Studio,Ubicado en zona norte con vista panorámica.,5430620,True
+167,INM-33004,Casa Campestre,Espacio abierto con doble altura.,7200933,True
+168,INM-12396,Lote Urbanizado,Espacio abierto con doble altura.,12725656,True
+169,INM-36453,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,2847180,True
+170,INM-93316,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,9354557,True
+171,INM-40180,Apartamento Studio,Ubicado en zona norte con vista panorámica.,4562598,True
+172,INM-13699,Lote Urbanizado,Acabados de lujo y eficiencia energética.,7117618,True
+173,INM-17869,Bodega Industrial,Cerca a centros comerciales y transporte público.,13858034,True
+174,INM-22741,Consultorio Médico,Ubicado en zona norte con vista panorámica.,11067826,True
+175,INM-89025,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,10322113,True
+176,INM-32110,Local Comercial,Espacio abierto con doble altura.,3741152,True
+177,INM-35198,Bodega Industrial,Acabados de lujo y eficiencia energética.,6925622,True
+178,INM-52428,Parqueadero Cubierto,Espacio abierto con doble altura.,5281665,True
+179,INM-15261,Local Comercial,Ubicado en zona norte con vista panorámica.,7593146,True
+180,INM-93729,Local Comercial,Seguridad reforzada y acceso controlado.,4864876,True
+181,INM-36129,Casa Campestre,Acabados de lujo y eficiencia energética.,5337126,True
+182,INM-39692,Bodega Industrial,Ubicación estratégica en el centro financiero.,4444960,True
+183,INM-97674,Oficina Corporativa,Cerca a centros comerciales y transporte público.,12944313,True
+184,INM-29764,Penthouse,Área residencial tranquila con zonas verdes.,7225946,True
+185,INM-40891,Consultorio Médico,Ubicado en zona norte con vista panorámica.,6649346,True
+186,INM-27415,Penthouse,Ubicado en zona norte con vista panorámica.,9053133,True
+187,INM-63763,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,12923450,True
+188,INM-47028,Casa Campestre,Cerca a centros comerciales y transporte público.,10607444,True
+189,INM-56986,Casa Campestre,Espacio abierto con doble altura.,13571375,True
+190,INM-70903,Casa Campestre,Área residencial tranquila con zonas verdes.,11003065,True
+191,INM-99426,Bodega Industrial,Cerca a centros comerciales y transporte público.,12414457,True
+192,INM-36415,Apartamento Studio,Seguridad reforzada y acceso controlado.,2066018,True
+193,INM-32631,Consultorio Médico,Ubicación estratégica en el centro financiero.,13941012,True
+194,INM-29020,Local Comercial,Ubicado en zona norte con vista panorámica.,12354974,True
+195,INM-98301,Penthouse,Seguridad reforzada y acceso controlado.,11247928,True
+196,INM-92830,Consultorio Médico,Espacio abierto con doble altura.,4249881,True
+197,INM-49284,Bodega Industrial,Seguridad reforzada y acceso controlado.,6651392,True
+198,INM-90040,Oficina Corporativa,Acabados de lujo y eficiencia energética.,5448954,True
+199,INM-88171,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,8107249,True
+200,INM-24110,Bodega Industrial,Seguridad reforzada y acceso controlado.,11569946,True
+201,INM-61941,Penthouse,Ubicación estratégica en el centro financiero.,8882366,True
+202,INM-49832,Local Comercial,Área residencial tranquila con zonas verdes.,3759565,True
+203,INM-96781,Bodega Industrial,Área residencial tranquila con zonas verdes.,4148361,True
+204,INM-78244,Bodega Industrial,Área residencial tranquila con zonas verdes.,1409131,True
+205,INM-92198,Apartamento Studio,Área residencial tranquila con zonas verdes.,7652361,True
+206,INM-23319,Local Comercial,Área residencial tranquila con zonas verdes.,2484235,True
+207,INM-76114,Apartamento Studio,Seguridad reforzada y acceso controlado.,8266293,True
+208,INM-71204,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,6380153,True
+209,INM-43022,Local Comercial,Espacio abierto con doble altura.,3873879,True
+210,INM-20110,Bodega Industrial,Área residencial tranquila con zonas verdes.,8888359,True
+211,INM-30626,Consultorio Médico,Cerca a centros comerciales y transporte público.,9882052,True
+212,INM-41678,Consultorio Médico,Acabados de lujo y eficiencia energética.,5001951,True
+213,INM-11495,Apartamento Studio,Espacio abierto con doble altura.,8682056,True
+214,INM-10731,Bodega Industrial,Acabados de lujo y eficiencia energética.,4619124,True
+215,INM-91571,Bodega Industrial,Acabados de lujo y eficiencia energética.,9317606,True
+216,INM-49591,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,12876929,True
+217,INM-63199,Apartamento Studio,Ubicación estratégica en el centro financiero.,14997336,True
+218,INM-61317,Penthouse,Ubicado en zona norte con vista panorámica.,6630125,True
+219,INM-79732,Bodega Industrial,Área residencial tranquila con zonas verdes.,2559771,True
+220,INM-42895,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,12472231,True
+221,INM-19005,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,2034030,True
+222,INM-12279,Apartamento Studio,Acabados de lujo y eficiencia energética.,9267973,True
+223,INM-69324,Consultorio Médico,Área residencial tranquila con zonas verdes.,7484448,True
+224,INM-50813,Bodega Industrial,Acabados de lujo y eficiencia energética.,4805471,True
+225,INM-88467,Penthouse,Ubicado en zona norte con vista panorámica.,10513723,True
+226,INM-87063,Apartamento Studio,Acabados de lujo y eficiencia energética.,4361711,True
+227,INM-60467,Consultorio Médico,Ubicado en zona norte con vista panorámica.,9342285,True
+228,INM-40349,Oficina Corporativa,Ubicación estratégica en el centro financiero.,9390906,True
+229,INM-89028,Oficina Corporativa,Acabados de lujo y eficiencia energética.,8114581,True
+230,INM-80838,Casa Campestre,Ubicación estratégica en el centro financiero.,8964108,True
+231,INM-21329,Apartamento Studio,Seguridad reforzada y acceso controlado.,12706486,True
+232,INM-65439,Bodega Industrial,Ubicación estratégica en el centro financiero.,12730204,True
+233,INM-47874,Casa Campestre,Seguridad reforzada y acceso controlado.,4641881,True
+234,INM-13164,Parqueadero Cubierto,Espacio abierto con doble altura.,11005294,True
+235,INM-23207,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,884805,True
+236,INM-97689,Oficina Corporativa,Ubicación estratégica en el centro financiero.,5030509,True
+237,INM-91049,Consultorio Médico,Ubicado en zona norte con vista panorámica.,3033079,True
+238,INM-92844,Apartamento Studio,Espacio abierto con doble altura.,9294427,True
+239,INM-72780,Local Comercial,Área residencial tranquila con zonas verdes.,12884049,True
+240,INM-91196,Apartamento Studio,Cerca a centros comerciales y transporte público.,1465058,True
+241,INM-71871,Consultorio Médico,Cerca a centros comerciales y transporte público.,8928315,True
+242,INM-79720,Penthouse,Cerca a centros comerciales y transporte público.,11484285,True
+243,INM-99724,Penthouse,Área residencial tranquila con zonas verdes.,2686520,True
+244,INM-89133,Consultorio Médico,Ubicado en zona norte con vista panorámica.,9202796,True
+245,INM-75049,Local Comercial,Seguridad reforzada y acceso controlado.,5643066,True
+246,INM-68596,Oficina Corporativa,Cerca a centros comerciales y transporte público.,13609292,True
+247,INM-59179,Oficina Corporativa,Acabados de lujo y eficiencia energética.,9756947,True
+248,INM-67746,Bodega Industrial,Espacio abierto con doble altura.,11483863,True
+249,INM-60504,Oficina Corporativa,Ubicación estratégica en el centro financiero.,12331820,True
+250,INM-33871,Penthouse,Ubicado en zona norte con vista panorámica.,2966220,True
+251,INM-91291,Apartamento Studio,Espacio abierto con doble altura.,10253722,True
+252,INM-39768,Apartamento Studio,Área residencial tranquila con zonas verdes.,4032352,True
+253,INM-58211,Consultorio Médico,Ubicación estratégica en el centro financiero.,1145194,True
+254,INM-84911,Consultorio Médico,Área residencial tranquila con zonas verdes.,13288354,True
+255,INM-51889,Apartamento Studio,Cerca a centros comerciales y transporte público.,2154467,True
+256,INM-68950,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,12811792,True
+257,INM-17383,Bodega Industrial,Ubicado en zona norte con vista panorámica.,3557781,True
+258,INM-31153,Casa Campestre,Área residencial tranquila con zonas verdes.,12904938,True
+259,INM-14753,Penthouse,Seguridad reforzada y acceso controlado.,7763721,True
+260,INM-58655,Local Comercial,Ubicación estratégica en el centro financiero.,3756452,True
+261,INM-72951,Bodega Industrial,Ubicación estratégica en el centro financiero.,2782382,True
+262,INM-45479,Local Comercial,Área residencial tranquila con zonas verdes.,14741405,True
+263,INM-22767,Penthouse,Acabados de lujo y eficiencia energética.,13322752,True
+264,INM-14307,Lote Urbanizado,Espacio abierto con doble altura.,14707471,True
+265,INM-75127,Local Comercial,Cerca a centros comerciales y transporte público.,7352168,True
+266,INM-21295,Lote Urbanizado,Área residencial tranquila con zonas verdes.,8772687,True
+267,INM-33813,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,9690088,True
+268,INM-24157,Local Comercial,Área residencial tranquila con zonas verdes.,11402995,True
+269,INM-53628,Parqueadero Cubierto,Espacio abierto con doble altura.,2893807,True
+270,INM-90581,Bodega Industrial,Acabados de lujo y eficiencia energética.,8808330,True
+271,INM-68107,Local Comercial,Área residencial tranquila con zonas verdes.,13610097,True
+272,INM-36879,Local Comercial,Ubicado en zona norte con vista panorámica.,4379167,True
+273,INM-47473,Lote Urbanizado,Cerca a centros comerciales y transporte público.,6951230,True
+274,INM-56113,Casa Campestre,Espacio abierto con doble altura.,13914694,True
+275,INM-53736,Lote Urbanizado,Espacio abierto con doble altura.,11808394,True
+276,INM-78623,Local Comercial,Seguridad reforzada y acceso controlado.,10223930,True
+277,INM-48819,Consultorio Médico,Espacio abierto con doble altura.,9332640,True
+278,INM-79545,Consultorio Médico,Cerca a centros comerciales y transporte público.,9528728,True
+279,INM-57268,Lote Urbanizado,Ubicación estratégica en el centro financiero.,3783274,True
+280,INM-80858,Penthouse,Ubicación estratégica en el centro financiero.,5373098,True
+281,INM-28803,Consultorio Médico,Acabados de lujo y eficiencia energética.,9306003,True
+282,INM-52365,Penthouse,Ubicación estratégica en el centro financiero.,9527990,True
+283,INM-44932,Lote Urbanizado,Ubicación estratégica en el centro financiero.,2751301,True
+284,INM-29246,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,1202932,True
+285,INM-79272,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,4496819,True
+286,INM-85211,Casa Campestre,Acabados de lujo y eficiencia energética.,987444,True
+287,INM-43671,Penthouse,Acabados de lujo y eficiencia energética.,14111830,True
+288,INM-70721,Oficina Corporativa,Ubicación estratégica en el centro financiero.,8499371,True
+289,INM-17552,Bodega Industrial,Seguridad reforzada y acceso controlado.,8015121,True
+290,INM-26716,Local Comercial,Ubicación estratégica en el centro financiero.,1560827,True
+291,INM-37999,Casa Campestre,Ubicación estratégica en el centro financiero.,7590531,True
+292,INM-79687,Apartamento Studio,Área residencial tranquila con zonas verdes.,9089292,True
+293,INM-53714,Lote Urbanizado,Área residencial tranquila con zonas verdes.,2755647,True
+294,INM-79326,Oficina Corporativa,Área residencial tranquila con zonas verdes.,2992545,True
+295,INM-94842,Local Comercial,Espacio abierto con doble altura.,2211274,True
+296,INM-64371,Bodega Industrial,Seguridad reforzada y acceso controlado.,4106021,True
+297,INM-31877,Consultorio Médico,Seguridad reforzada y acceso controlado.,7287188,True
+298,INM-63609,Casa Campestre,Ubicado en zona norte con vista panorámica.,2508183,True
+299,INM-73496,Oficina Corporativa,Espacio abierto con doble altura.,6297781,True
+300,INM-33634,Bodega Industrial,Cerca a centros comerciales y transporte público.,12380332,True
+301,INM-89596,Apartamento Studio,Seguridad reforzada y acceso controlado.,4504081,True
+302,INM-95284,Apartamento Studio,Ubicación estratégica en el centro financiero.,4360943,True
+303,INM-72947,Consultorio Médico,Ubicación estratégica en el centro financiero.,9190910,True
+304,INM-66872,Apartamento Studio,Espacio abierto con doble altura.,1033669,True
+305,INM-14967,Penthouse,Ubicado en zona norte con vista panorámica.,9637649,True
+306,INM-30230,Lote Urbanizado,Área residencial tranquila con zonas verdes.,12574479,True
+307,INM-49985,Parqueadero Cubierto,Espacio abierto con doble altura.,13015339,True
+308,INM-35073,Consultorio Médico,Área residencial tranquila con zonas verdes.,2675061,True
+309,INM-76244,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7685291,True
+310,INM-23107,Oficina Corporativa,Seguridad reforzada y acceso controlado.,3277871,True
+311,INM-87143,Penthouse,Espacio abierto con doble altura.,11040007,True
+312,INM-70764,Bodega Industrial,Acabados de lujo y eficiencia energética.,5355788,True
+313,INM-21903,Casa Campestre,Cerca a centros comerciales y transporte público.,3243791,True
+314,INM-19850,Consultorio Médico,Acabados de lujo y eficiencia energética.,7984039,True
+315,INM-93166,Apartamento Studio,Cerca a centros comerciales y transporte público.,9844716,True
+316,INM-50179,Local Comercial,Acabados de lujo y eficiencia energética.,14537504,True
+317,INM-74618,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,3782646,True
+318,INM-56303,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,13284648,True
+319,INM-55406,Casa Campestre,Área residencial tranquila con zonas verdes.,5120851,True
+320,INM-69000,Casa Campestre,Seguridad reforzada y acceso controlado.,8635159,True
+321,INM-72667,Penthouse,Seguridad reforzada y acceso controlado.,1267652,True
+322,INM-46370,Bodega Industrial,Ubicación estratégica en el centro financiero.,14005163,True
+323,INM-98106,Bodega Industrial,Ubicación estratégica en el centro financiero.,10794497,True
+324,INM-49103,Lote Urbanizado,Espacio abierto con doble altura.,5627090,True
+325,INM-10961,Lote Urbanizado,Ubicación estratégica en el centro financiero.,5881216,True
+326,INM-17117,Apartamento Studio,Seguridad reforzada y acceso controlado.,13280395,True
+327,INM-82592,Consultorio Médico,Seguridad reforzada y acceso controlado.,11637589,True
+328,INM-68077,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,14213788,True
+329,INM-21343,Casa Campestre,Acabados de lujo y eficiencia energética.,14100172,True
+330,INM-24474,Local Comercial,Seguridad reforzada y acceso controlado.,10855728,True
+331,INM-53532,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,3476168,True
+332,INM-32840,Apartamento Studio,Área residencial tranquila con zonas verdes.,13229400,True
+333,INM-56913,Apartamento Studio,Seguridad reforzada y acceso controlado.,11605616,True
+334,INM-61799,Apartamento Studio,Cerca a centros comerciales y transporte público.,9068300,True
+335,INM-94454,Lote Urbanizado,Ubicación estratégica en el centro financiero.,6286904,True
+336,INM-26579,Casa Campestre,Ubicado en zona norte con vista panorámica.,13334582,True
+337,INM-92467,Consultorio Médico,Ubicación estratégica en el centro financiero.,1063452,True
+338,INM-61733,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,2653715,True
+339,INM-78636,Casa Campestre,Ubicación estratégica en el centro financiero.,14794072,True
+340,INM-92074,Penthouse,Espacio abierto con doble altura.,5667501,True
+341,INM-88468,Consultorio Médico,Área residencial tranquila con zonas verdes.,2705852,True
+342,INM-32223,Local Comercial,Seguridad reforzada y acceso controlado.,14123884,True
+343,INM-64671,Apartamento Studio,Acabados de lujo y eficiencia energética.,9442498,True
+344,INM-59823,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,5364847,True
+345,INM-17404,Oficina Corporativa,Cerca a centros comerciales y transporte público.,829549,True
+346,INM-50781,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,1602040,True
+347,INM-83237,Consultorio Médico,Espacio abierto con doble altura.,5086520,True
+348,INM-85801,Lote Urbanizado,Seguridad reforzada y acceso controlado.,10282931,True
+349,INM-96392,Casa Campestre,Cerca a centros comerciales y transporte público.,940430,True
+350,INM-20946,Parqueadero Cubierto,Espacio abierto con doble altura.,7275301,True
+351,INM-48015,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,14239292,True
+352,INM-51646,Consultorio Médico,Espacio abierto con doble altura.,3331251,True
+353,INM-58649,Local Comercial,Acabados de lujo y eficiencia energética.,5974821,True
+354,INM-36351,Penthouse,Ubicado en zona norte con vista panorámica.,11710868,True
+355,INM-31701,Bodega Industrial,Ubicado en zona norte con vista panorámica.,3569259,True
+356,INM-74878,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,12530588,True
+357,INM-91577,Apartamento Studio,Cerca a centros comerciales y transporte público.,6250913,True
+358,INM-68161,Oficina Corporativa,Acabados de lujo y eficiencia energética.,3585289,True
+359,INM-70073,Local Comercial,Acabados de lujo y eficiencia energética.,3693859,True
+360,INM-25659,Consultorio Médico,Cerca a centros comerciales y transporte público.,13726108,True
+361,INM-77272,Apartamento Studio,Seguridad reforzada y acceso controlado.,6369991,True
+362,INM-78282,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,6169473,True
+363,INM-22587,Lote Urbanizado,Cerca a centros comerciales y transporte público.,5266279,True
+364,INM-20977,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,6689783,True
+365,INM-87653,Local Comercial,Acabados de lujo y eficiencia energética.,2794305,True
+366,INM-41616,Consultorio Médico,Ubicación estratégica en el centro financiero.,4017110,True
+367,INM-59632,Lote Urbanizado,Ubicación estratégica en el centro financiero.,5258470,True
+368,INM-50262,Apartamento Studio,Ubicado en zona norte con vista panorámica.,2145346,True
+369,INM-55460,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,14483190,True
+370,INM-61563,Bodega Industrial,Ubicado en zona norte con vista panorámica.,5801812,True
+371,INM-16877,Local Comercial,Cerca a centros comerciales y transporte público.,4211165,True
+372,INM-55487,Penthouse,Cerca a centros comerciales y transporte público.,13169504,True
+373,INM-70524,Penthouse,Cerca a centros comerciales y transporte público.,2402224,True
+374,INM-61567,Consultorio Médico,Área residencial tranquila con zonas verdes.,8827323,True
+375,INM-54340,Consultorio Médico,Área residencial tranquila con zonas verdes.,11407978,True
+376,INM-38550,Bodega Industrial,Área residencial tranquila con zonas verdes.,13007874,True
+377,INM-77173,Apartamento Studio,Área residencial tranquila con zonas verdes.,7841082,True
+378,INM-31847,Casa Campestre,Área residencial tranquila con zonas verdes.,1377223,True
+379,INM-70997,Lote Urbanizado,Acabados de lujo y eficiencia energética.,10217153,True
+380,INM-93909,Casa Campestre,Área residencial tranquila con zonas verdes.,1359325,True
+381,INM-17309,Oficina Corporativa,Seguridad reforzada y acceso controlado.,6133412,True
+382,INM-97406,Bodega Industrial,Ubicado en zona norte con vista panorámica.,14834795,True
+383,INM-27238,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,10176772,True
+384,INM-16347,Casa Campestre,Acabados de lujo y eficiencia energética.,7280855,True
+385,INM-90174,Casa Campestre,Área residencial tranquila con zonas verdes.,12873216,True
+386,INM-26698,Parqueadero Cubierto,Espacio abierto con doble altura.,14980073,True
+387,INM-67652,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1867018,True
+388,INM-76637,Apartamento Studio,Área residencial tranquila con zonas verdes.,10305427,True
+389,INM-28554,Apartamento Studio,Espacio abierto con doble altura.,9804994,True
+390,INM-26953,Oficina Corporativa,Espacio abierto con doble altura.,11773706,True
+391,INM-13706,Casa Campestre,Cerca a centros comerciales y transporte público.,5786779,True
+392,INM-24498,Apartamento Studio,Área residencial tranquila con zonas verdes.,12017253,True
+393,INM-28178,Local Comercial,Espacio abierto con doble altura.,11993993,True
+394,INM-20887,Penthouse,Espacio abierto con doble altura.,8074506,True
+395,INM-21419,Local Comercial,Acabados de lujo y eficiencia energética.,1020164,True
+396,INM-32099,Bodega Industrial,Espacio abierto con doble altura.,11848463,True
+397,INM-16654,Apartamento Studio,Cerca a centros comerciales y transporte público.,10194229,True
+398,INM-53397,Oficina Corporativa,Espacio abierto con doble altura.,8801537,True
+399,INM-14209,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,13592834,True
+400,INM-51215,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,9505767,True
+401,INM-10067,Casa Campestre,Ubicado en zona norte con vista panorámica.,12019520,True
+402,INM-35565,Casa Campestre,Seguridad reforzada y acceso controlado.,9365993,True
+403,INM-64393,Penthouse,Espacio abierto con doble altura.,6229440,True
+404,INM-70539,Apartamento Studio,Acabados de lujo y eficiencia energética.,1481619,True
+405,INM-72002,Local Comercial,Espacio abierto con doble altura.,11554738,True
+406,INM-12614,Lote Urbanizado,Acabados de lujo y eficiencia energética.,14840408,True
+407,INM-34779,Penthouse,Acabados de lujo y eficiencia energética.,10880327,True
+408,INM-81061,Apartamento Studio,Ubicación estratégica en el centro financiero.,5384913,True
+409,INM-95745,Oficina Corporativa,Acabados de lujo y eficiencia energética.,4816410,True
+410,INM-89166,Lote Urbanizado,Espacio abierto con doble altura.,9463914,True
+411,INM-62070,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8903384,True
+412,INM-47054,Casa Campestre,Acabados de lujo y eficiencia energética.,12599135,True
+413,INM-35254,Penthouse,Ubicado en zona norte con vista panorámica.,9488220,True
+414,INM-36795,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,8868275,True
+415,INM-28101,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,3497741,True
+416,INM-48653,Penthouse,Acabados de lujo y eficiencia energética.,6731709,True
+417,INM-74128,Bodega Industrial,Cerca a centros comerciales y transporte público.,1209688,True
+418,INM-67076,Apartamento Studio,Espacio abierto con doble altura.,9649112,True
+419,INM-36315,Casa Campestre,Área residencial tranquila con zonas verdes.,7210894,True
+420,INM-45033,Apartamento Studio,Área residencial tranquila con zonas verdes.,9282893,True
+421,INM-26963,Bodega Industrial,Ubicación estratégica en el centro financiero.,10603838,True
+422,INM-69141,Local Comercial,Cerca a centros comerciales y transporte público.,4991165,True
+423,INM-50775,Consultorio Médico,Cerca a centros comerciales y transporte público.,4798243,True
+424,INM-81225,Oficina Corporativa,Área residencial tranquila con zonas verdes.,12294807,True
+425,INM-49003,Penthouse,Acabados de lujo y eficiencia energética.,13944965,True
+426,INM-39697,Apartamento Studio,Acabados de lujo y eficiencia energética.,10314742,True
+427,INM-58595,Bodega Industrial,Seguridad reforzada y acceso controlado.,13200062,True
+428,INM-30103,Apartamento Studio,Área residencial tranquila con zonas verdes.,12500253,True
+429,INM-77693,Bodega Industrial,Cerca a centros comerciales y transporte público.,5612842,True
+430,INM-96757,Oficina Corporativa,Ubicación estratégica en el centro financiero.,1578311,True
+431,INM-83654,Penthouse,Ubicación estratégica en el centro financiero.,14964641,True
+432,INM-39583,Local Comercial,Acabados de lujo y eficiencia energética.,13674927,True
+433,INM-62960,Consultorio Médico,Seguridad reforzada y acceso controlado.,3837372,True
+434,INM-22910,Bodega Industrial,Espacio abierto con doble altura.,4809398,True
+435,INM-31511,Apartamento Studio,Ubicación estratégica en el centro financiero.,10643791,True
+436,INM-59905,Consultorio Médico,Seguridad reforzada y acceso controlado.,11874734,True
+437,INM-43797,Oficina Corporativa,Cerca a centros comerciales y transporte público.,14529044,True
+438,INM-33081,Casa Campestre,Área residencial tranquila con zonas verdes.,14866693,True
+439,INM-63284,Bodega Industrial,Ubicación estratégica en el centro financiero.,1417090,True
+440,INM-67225,Apartamento Studio,Acabados de lujo y eficiencia energética.,5704878,True
+441,INM-74059,Consultorio Médico,Ubicación estratégica en el centro financiero.,3592981,True
+442,INM-13530,Bodega Industrial,Acabados de lujo y eficiencia energética.,12102703,True
+443,INM-89760,Casa Campestre,Ubicado en zona norte con vista panorámica.,14068478,True
+444,INM-13051,Oficina Corporativa,Cerca a centros comerciales y transporte público.,4875172,True
+445,INM-77687,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,10739180,True
+446,INM-58820,Casa Campestre,Ubicación estratégica en el centro financiero.,7960416,True
+447,INM-75567,Oficina Corporativa,Ubicación estratégica en el centro financiero.,2052316,True
+448,INM-73491,Consultorio Médico,Ubicación estratégica en el centro financiero.,1937549,True
+449,INM-21874,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8035660,True
+450,INM-96897,Local Comercial,Espacio abierto con doble altura.,6757545,True
+451,INM-37696,Casa Campestre,Acabados de lujo y eficiencia energética.,7364447,True
+452,INM-36882,Parqueadero Cubierto,Espacio abierto con doble altura.,7157511,True
+453,INM-97911,Casa Campestre,Cerca a centros comerciales y transporte público.,7075102,True
+454,INM-65278,Consultorio Médico,Ubicado en zona norte con vista panorámica.,4868453,True
+455,INM-55869,Lote Urbanizado,Cerca a centros comerciales y transporte público.,3939643,True
+456,INM-15271,Bodega Industrial,Espacio abierto con doble altura.,11382299,True
+457,INM-34101,Lote Urbanizado,Acabados de lujo y eficiencia energética.,8913754,True
+458,INM-53325,Casa Campestre,Área residencial tranquila con zonas verdes.,8942101,True
+459,INM-48397,Local Comercial,Ubicación estratégica en el centro financiero.,6702013,True
+460,INM-28250,Apartamento Studio,Seguridad reforzada y acceso controlado.,11614261,True
+461,INM-95349,Penthouse,Cerca a centros comerciales y transporte público.,7872207,True
+462,INM-73788,Penthouse,Área residencial tranquila con zonas verdes.,10102241,True
+463,INM-95390,Bodega Industrial,Cerca a centros comerciales y transporte público.,12056849,True
+464,INM-58835,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,5658479,True
+465,INM-73585,Casa Campestre,Cerca a centros comerciales y transporte público.,1537726,True
+466,INM-78841,Consultorio Médico,Cerca a centros comerciales y transporte público.,13090205,True
+467,INM-58801,Bodega Industrial,Cerca a centros comerciales y transporte público.,2557236,True
+468,INM-74862,Apartamento Studio,Cerca a centros comerciales y transporte público.,5853083,True
+469,INM-94439,Bodega Industrial,Cerca a centros comerciales y transporte público.,12256084,True
+470,INM-96565,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1012317,True
+471,INM-94594,Lote Urbanizado,Cerca a centros comerciales y transporte público.,14760721,True
+472,INM-87023,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6515504,True
+473,INM-20812,Penthouse,Ubicación estratégica en el centro financiero.,13053652,True
+474,INM-66432,Apartamento Studio,Acabados de lujo y eficiencia energética.,14262629,True
+475,INM-60579,Bodega Industrial,Ubicado en zona norte con vista panorámica.,1415473,True
+476,INM-84811,Penthouse,Área residencial tranquila con zonas verdes.,7733978,True
+477,INM-42445,Apartamento Studio,Ubicación estratégica en el centro financiero.,6419761,True
+478,INM-59388,Oficina Corporativa,Seguridad reforzada y acceso controlado.,14556775,True
+479,INM-79999,Casa Campestre,Área residencial tranquila con zonas verdes.,13261994,True
+480,INM-95535,Consultorio Médico,Espacio abierto con doble altura.,7640966,True
+481,INM-31020,Lote Urbanizado,Acabados de lujo y eficiencia energética.,10684597,True
+482,INM-17157,Apartamento Studio,Cerca a centros comerciales y transporte público.,2896796,True
+483,INM-90110,Bodega Industrial,Ubicado en zona norte con vista panorámica.,4366238,True
+484,INM-30202,Bodega Industrial,Ubicado en zona norte con vista panorámica.,11884995,True
+485,INM-18366,Oficina Corporativa,Cerca a centros comerciales y transporte público.,14273503,True
+486,INM-78519,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,1278318,True
+487,INM-55348,Penthouse,Ubicación estratégica en el centro financiero.,14579327,True
+488,INM-98492,Lote Urbanizado,Espacio abierto con doble altura.,7720304,True
+489,INM-33295,Lote Urbanizado,Seguridad reforzada y acceso controlado.,4372616,True
+490,INM-26687,Penthouse,Ubicado en zona norte con vista panorámica.,5470667,True
+491,INM-18250,Penthouse,Acabados de lujo y eficiencia energética.,6648027,True
+492,INM-31698,Penthouse,Ubicado en zona norte con vista panorámica.,14642063,True
+493,INM-46069,Bodega Industrial,Acabados de lujo y eficiencia energética.,4472030,True
+494,INM-94988,Consultorio Médico,Seguridad reforzada y acceso controlado.,11065106,True
+495,INM-48076,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1034055,True
+496,INM-98722,Bodega Industrial,Ubicado en zona norte con vista panorámica.,7716372,True
+497,INM-77823,Bodega Industrial,Área residencial tranquila con zonas verdes.,7197644,True
+498,INM-21536,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,10642130,True
+499,INM-14716,Oficina Corporativa,Ubicación estratégica en el centro financiero.,8522720,True
+500,INM-29678,Consultorio Médico,Espacio abierto con doble altura.,7711586,True
+501,INM-35865,Lote Urbanizado,Espacio abierto con doble altura.,5220054,True
+502,INM-45590,Apartamento Studio,Área residencial tranquila con zonas verdes.,5678336,True
+503,INM-50453,Casa Campestre,Espacio abierto con doble altura.,2759488,True
+504,INM-41941,Oficina Corporativa,Cerca a centros comerciales y transporte público.,6855424,True
+505,INM-43871,Bodega Industrial,Ubicación estratégica en el centro financiero.,8571657,True
+506,INM-57214,Oficina Corporativa,Acabados de lujo y eficiencia energética.,3073574,True
+507,INM-75279,Local Comercial,Ubicación estratégica en el centro financiero.,4685442,True
+508,INM-41413,Casa Campestre,Área residencial tranquila con zonas verdes.,14719547,True
+509,INM-90631,Local Comercial,Área residencial tranquila con zonas verdes.,1931874,True
+510,INM-95551,Apartamento Studio,Espacio abierto con doble altura.,3630785,True
+511,INM-72467,Bodega Industrial,Ubicado en zona norte con vista panorámica.,11793288,True
+512,INM-78998,Penthouse,Ubicación estratégica en el centro financiero.,5697923,True
+513,INM-92808,Apartamento Studio,Cerca a centros comerciales y transporte público.,1328544,True
+514,INM-20957,Oficina Corporativa,Cerca a centros comerciales y transporte público.,12411546,True
+515,INM-75755,Lote Urbanizado,Seguridad reforzada y acceso controlado.,11940442,True
+516,INM-45123,Consultorio Médico,Seguridad reforzada y acceso controlado.,8837820,True
+517,INM-67045,Apartamento Studio,Cerca a centros comerciales y transporte público.,6957355,True
+518,INM-58649,Consultorio Médico,Seguridad reforzada y acceso controlado.,14738337,True
+519,INM-69800,Casa Campestre,Cerca a centros comerciales y transporte público.,9241304,True
+520,INM-26382,Casa Campestre,Ubicado en zona norte con vista panorámica.,10351043,True
+521,INM-15126,Bodega Industrial,Espacio abierto con doble altura.,3646566,True
+522,INM-51242,Oficina Corporativa,Cerca a centros comerciales y transporte público.,9848485,True
+523,INM-58294,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,8373569,True
+524,INM-27933,Oficina Corporativa,Espacio abierto con doble altura.,3092979,True
+525,INM-40307,Lote Urbanizado,Área residencial tranquila con zonas verdes.,13920109,True
+526,INM-38561,Bodega Industrial,Espacio abierto con doble altura.,11783539,True
+527,INM-62462,Apartamento Studio,Ubicación estratégica en el centro financiero.,2709568,True
+528,INM-35101,Oficina Corporativa,Acabados de lujo y eficiencia energética.,5120269,True
+529,INM-27055,Apartamento Studio,Espacio abierto con doble altura.,4777364,True
+530,INM-32884,Penthouse,Ubicado en zona norte con vista panorámica.,10055871,True
+531,INM-48637,Parqueadero Cubierto,Espacio abierto con doble altura.,4350486,True
+532,INM-47405,Casa Campestre,Espacio abierto con doble altura.,13475475,True
+533,INM-73000,Oficina Corporativa,Espacio abierto con doble altura.,6865206,True
+534,INM-74551,Casa Campestre,Ubicación estratégica en el centro financiero.,4745056,True
+535,INM-79743,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,9224556,True
+536,INM-19258,Apartamento Studio,Área residencial tranquila con zonas verdes.,9310390,True
+537,INM-74993,Lote Urbanizado,Ubicación estratégica en el centro financiero.,13326149,True
+538,INM-18698,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,3189869,True
+539,INM-94779,Penthouse,Ubicación estratégica en el centro financiero.,5554115,True
+540,INM-55495,Casa Campestre,Cerca a centros comerciales y transporte público.,12890005,True
+541,INM-88481,Lote Urbanizado,Seguridad reforzada y acceso controlado.,3156701,True
+542,INM-80102,Local Comercial,Área residencial tranquila con zonas verdes.,4126926,True
+543,INM-13587,Local Comercial,Acabados de lujo y eficiencia energética.,7802442,True
+544,INM-46939,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7992875,True
+545,INM-82593,Bodega Industrial,Ubicado en zona norte con vista panorámica.,14577460,True
+546,INM-22844,Apartamento Studio,Espacio abierto con doble altura.,12061033,True
+547,INM-99420,Consultorio Médico,Área residencial tranquila con zonas verdes.,3338048,True
+548,INM-43979,Consultorio Médico,Cerca a centros comerciales y transporte público.,6898003,True
+549,INM-28018,Lote Urbanizado,Espacio abierto con doble altura.,9492456,True
+550,INM-56751,Penthouse,Ubicación estratégica en el centro financiero.,1959874,True
+551,INM-20837,Consultorio Médico,Cerca a centros comerciales y transporte público.,14406598,True
+552,INM-84062,Local Comercial,Ubicación estratégica en el centro financiero.,6173120,True
+553,INM-94774,Penthouse,Espacio abierto con doble altura.,4161984,True
+554,INM-83181,Bodega Industrial,Área residencial tranquila con zonas verdes.,5930194,True
+555,INM-55960,Local Comercial,Ubicado en zona norte con vista panorámica.,2882300,True
+556,INM-59446,Apartamento Studio,Ubicado en zona norte con vista panorámica.,12086639,True
+557,INM-50025,Local Comercial,Ubicación estratégica en el centro financiero.,4466178,True
+558,INM-38252,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,7100314,True
+559,INM-28376,Lote Urbanizado,Ubicación estratégica en el centro financiero.,6085139,True
+560,INM-14238,Consultorio Médico,Ubicado en zona norte con vista panorámica.,7761566,True
+561,INM-80544,Apartamento Studio,Ubicado en zona norte con vista panorámica.,11066083,True
+562,INM-18713,Local Comercial,Seguridad reforzada y acceso controlado.,9371200,True
+563,INM-42175,Penthouse,Área residencial tranquila con zonas verdes.,12720840,True
+564,INM-74767,Bodega Industrial,Acabados de lujo y eficiencia energética.,9774622,True
+565,INM-93188,Bodega Industrial,Ubicado en zona norte con vista panorámica.,9644927,True
+566,INM-71809,Consultorio Médico,Espacio abierto con doble altura.,5180279,True
+567,INM-34802,Penthouse,Área residencial tranquila con zonas verdes.,7972506,True
+568,INM-90546,Lote Urbanizado,Espacio abierto con doble altura.,6150965,True
+569,INM-96032,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,3640144,True
+570,INM-11512,Oficina Corporativa,Ubicación estratégica en el centro financiero.,1500038,True
+571,INM-87185,Casa Campestre,Ubicado en zona norte con vista panorámica.,10641654,True
+572,INM-11448,Lote Urbanizado,Área residencial tranquila con zonas verdes.,11722651,True
+573,INM-28869,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,9359871,True
+574,INM-27804,Consultorio Médico,Ubicación estratégica en el centro financiero.,7605766,True
+575,INM-82229,Oficina Corporativa,Espacio abierto con doble altura.,2771643,True
+576,INM-13992,Apartamento Studio,Área residencial tranquila con zonas verdes.,950283,True
+577,INM-96486,Apartamento Studio,Ubicación estratégica en el centro financiero.,5287332,True
+578,INM-70933,Bodega Industrial,Ubicación estratégica en el centro financiero.,1230701,True
+579,INM-16899,Casa Campestre,Acabados de lujo y eficiencia energética.,10434080,True
+580,INM-40300,Casa Campestre,Ubicación estratégica en el centro financiero.,4703618,True
+581,INM-49374,Local Comercial,Cerca a centros comerciales y transporte público.,2763890,True
+582,INM-96291,Consultorio Médico,Cerca a centros comerciales y transporte público.,1517227,True
+583,INM-22219,Consultorio Médico,Ubicación estratégica en el centro financiero.,4234725,True
+584,INM-72387,Penthouse,Acabados de lujo y eficiencia energética.,9386452,True
+585,INM-49359,Bodega Industrial,Ubicado en zona norte con vista panorámica.,5988274,True
+586,INM-14295,Local Comercial,Seguridad reforzada y acceso controlado.,1502141,True
+587,INM-85681,Apartamento Studio,Espacio abierto con doble altura.,14893077,True
+588,INM-92056,Apartamento Studio,Espacio abierto con doble altura.,4090461,True
+589,INM-43779,Oficina Corporativa,Acabados de lujo y eficiencia energética.,14305013,True
+590,INM-46446,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,7976098,True
+591,INM-46007,Apartamento Studio,Seguridad reforzada y acceso controlado.,3143955,True
+592,INM-53346,Apartamento Studio,Área residencial tranquila con zonas verdes.,7992058,True
+593,INM-69332,Consultorio Médico,Ubicado en zona norte con vista panorámica.,847545,True
+594,INM-94640,Local Comercial,Espacio abierto con doble altura.,10167243,True
+595,INM-18974,Casa Campestre,Acabados de lujo y eficiencia energética.,9776003,True
+596,INM-79362,Lote Urbanizado,Cerca a centros comerciales y transporte público.,7544472,True
+597,INM-78450,Casa Campestre,Acabados de lujo y eficiencia energética.,1636204,True
+598,INM-72581,Parqueadero Cubierto,Espacio abierto con doble altura.,6638155,True
+599,INM-60417,Casa Campestre,Cerca a centros comerciales y transporte público.,11534467,True
+600,INM-88475,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6573347,True
+601,INM-45483,Consultorio Médico,Ubicado en zona norte con vista panorámica.,9882927,True
+602,INM-94356,Penthouse,Cerca a centros comerciales y transporte público.,912538,True
+603,INM-28568,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,5716944,True
+604,INM-41343,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,3209721,True
+605,INM-25846,Bodega Industrial,Ubicado en zona norte con vista panorámica.,6866557,True
+606,INM-45026,Consultorio Médico,Acabados de lujo y eficiencia energética.,13351484,True
+607,INM-79462,Lote Urbanizado,Área residencial tranquila con zonas verdes.,7295437,True
+608,INM-85293,Local Comercial,Área residencial tranquila con zonas verdes.,11958698,True
+609,INM-62107,Local Comercial,Ubicado en zona norte con vista panorámica.,1392521,True
+610,INM-60335,Casa Campestre,Espacio abierto con doble altura.,12325419,True
+611,INM-40209,Penthouse,Seguridad reforzada y acceso controlado.,7680450,True
+612,INM-27385,Lote Urbanizado,Acabados de lujo y eficiencia energética.,5201200,True
+613,INM-12909,Oficina Corporativa,Espacio abierto con doble altura.,3980827,True
+614,INM-74920,Apartamento Studio,Área residencial tranquila con zonas verdes.,2828168,True
+615,INM-96140,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7195262,True
+616,INM-97690,Local Comercial,Ubicación estratégica en el centro financiero.,4384454,True
+617,INM-41601,Bodega Industrial,Ubicado en zona norte con vista panorámica.,2136613,True
+618,INM-93621,Oficina Corporativa,Ubicación estratégica en el centro financiero.,12227074,True
+619,INM-41420,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,2029870,True
+620,INM-43043,Penthouse,Espacio abierto con doble altura.,4966502,True
+621,INM-31237,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,10858530,True
+622,INM-64603,Apartamento Studio,Acabados de lujo y eficiencia energética.,2287407,True
+623,INM-32835,Local Comercial,Cerca a centros comerciales y transporte público.,7665286,True
+624,INM-13942,Casa Campestre,Espacio abierto con doble altura.,1830775,True
+625,INM-46498,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,7949987,True
+626,INM-58916,Penthouse,Acabados de lujo y eficiencia energética.,3149121,True
+627,INM-93372,Parqueadero Cubierto,Espacio abierto con doble altura.,8071166,True
+628,INM-69365,Apartamento Studio,Ubicado en zona norte con vista panorámica.,3373827,True
+629,INM-77162,Apartamento Studio,Seguridad reforzada y acceso controlado.,6141394,True
+630,INM-49155,Consultorio Médico,Ubicado en zona norte con vista panorámica.,4255782,True
+631,INM-85744,Consultorio Médico,Cerca a centros comerciales y transporte público.,11759033,True
+632,INM-28011,Casa Campestre,Cerca a centros comerciales y transporte público.,11738136,True
+633,INM-50929,Lote Urbanizado,Seguridad reforzada y acceso controlado.,6524576,True
+634,INM-82464,Casa Campestre,Cerca a centros comerciales y transporte público.,5224640,True
+635,INM-98721,Lote Urbanizado,Espacio abierto con doble altura.,8305393,True
+636,INM-44744,Apartamento Studio,Espacio abierto con doble altura.,12512839,True
+637,INM-55885,Lote Urbanizado,Espacio abierto con doble altura.,9029377,True
+638,INM-82721,Parqueadero Cubierto,Espacio abierto con doble altura.,9743077,True
+639,INM-48124,Lote Urbanizado,Ubicación estratégica en el centro financiero.,14317064,True
+640,INM-95196,Penthouse,Ubicación estratégica en el centro financiero.,1162299,True
+641,INM-17847,Casa Campestre,Seguridad reforzada y acceso controlado.,3460079,True
+642,INM-11745,Oficina Corporativa,Seguridad reforzada y acceso controlado.,9677490,True
+643,INM-30091,Casa Campestre,Acabados de lujo y eficiencia energética.,9617118,True
+644,INM-49680,Apartamento Studio,Ubicación estratégica en el centro financiero.,8974952,True
+645,INM-55892,Oficina Corporativa,Seguridad reforzada y acceso controlado.,8621520,True
+646,INM-12842,Oficina Corporativa,Acabados de lujo y eficiencia energética.,7447157,True
+647,INM-63302,Penthouse,Ubicación estratégica en el centro financiero.,3823870,True
+648,INM-45102,Casa Campestre,Seguridad reforzada y acceso controlado.,5511321,True
+649,INM-34549,Penthouse,Ubicación estratégica en el centro financiero.,4843020,True
+650,INM-84990,Oficina Corporativa,Espacio abierto con doble altura.,4590375,True
+651,INM-91657,Oficina Corporativa,Seguridad reforzada y acceso controlado.,3276419,True
+652,INM-32435,Local Comercial,Acabados de lujo y eficiencia energética.,10742030,True
+653,INM-83643,Casa Campestre,Ubicación estratégica en el centro financiero.,10641852,True
+654,INM-92898,Apartamento Studio,Espacio abierto con doble altura.,11178693,True
+655,INM-20575,Apartamento Studio,Espacio abierto con doble altura.,13029548,True
+656,INM-84550,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,1829960,True
+657,INM-89343,Apartamento Studio,Acabados de lujo y eficiencia energética.,10704481,True
+658,INM-57365,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,13978319,True
+659,INM-38229,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,13337705,True
+660,INM-39763,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,11187616,True
+661,INM-98129,Penthouse,Ubicado en zona norte con vista panorámica.,2564546,True
+662,INM-93169,Bodega Industrial,Acabados de lujo y eficiencia energética.,6220162,True
+663,INM-36220,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,14408305,True
+664,INM-30691,Penthouse,Acabados de lujo y eficiencia energética.,1573023,True
+665,INM-29935,Apartamento Studio,Acabados de lujo y eficiencia energética.,1122130,True
+666,INM-88775,Consultorio Médico,Acabados de lujo y eficiencia energética.,4355542,True
+667,INM-34812,Casa Campestre,Seguridad reforzada y acceso controlado.,14209497,True
+668,INM-19989,Consultorio Médico,Seguridad reforzada y acceso controlado.,6389109,True
+669,INM-78938,Penthouse,Ubicado en zona norte con vista panorámica.,12080871,True
+670,INM-66848,Apartamento Studio,Cerca a centros comerciales y transporte público.,4255978,True
+671,INM-85238,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,4877186,True
+672,INM-25711,Local Comercial,Espacio abierto con doble altura.,14818218,True
+673,INM-54286,Consultorio Médico,Ubicación estratégica en el centro financiero.,4800074,True
+674,INM-98887,Penthouse,Área residencial tranquila con zonas verdes.,12591254,True
+675,INM-73387,Apartamento Studio,Cerca a centros comerciales y transporte público.,5448561,True
+676,INM-34035,Consultorio Médico,Ubicación estratégica en el centro financiero.,2652176,True
+677,INM-93893,Oficina Corporativa,Espacio abierto con doble altura.,5755748,True
+678,INM-33718,Apartamento Studio,Cerca a centros comerciales y transporte público.,7595135,True
+679,INM-46640,Oficina Corporativa,Cerca a centros comerciales y transporte público.,14313454,True
+680,INM-98357,Lote Urbanizado,Espacio abierto con doble altura.,2711897,True
+681,INM-25139,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,2690253,True
+682,INM-84737,Penthouse,Ubicado en zona norte con vista panorámica.,3561521,True
+683,INM-11940,Consultorio Médico,Ubicado en zona norte con vista panorámica.,3276798,True
+684,INM-53705,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,12062341,True
+685,INM-50988,Oficina Corporativa,Ubicación estratégica en el centro financiero.,14712848,True
+686,INM-60758,Lote Urbanizado,Cerca a centros comerciales y transporte público.,4959777,True
+687,INM-30915,Lote Urbanizado,Acabados de lujo y eficiencia energética.,1871923,True
+688,INM-74918,Consultorio Médico,Espacio abierto con doble altura.,10467162,True
+689,INM-28103,Consultorio Médico,Cerca a centros comerciales y transporte público.,8017800,True
+690,INM-38320,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,12097726,True
+691,INM-50388,Local Comercial,Cerca a centros comerciales y transporte público.,5735430,True
+692,INM-32078,Apartamento Studio,Ubicado en zona norte con vista panorámica.,12601661,True
+693,INM-92803,Bodega Industrial,Espacio abierto con doble altura.,9887167,True
+694,INM-12531,Penthouse,Seguridad reforzada y acceso controlado.,9663465,True
+695,INM-38979,Consultorio Médico,Acabados de lujo y eficiencia energética.,6012710,True
+696,INM-50652,Casa Campestre,Espacio abierto con doble altura.,8642743,True
+697,INM-95626,Oficina Corporativa,Acabados de lujo y eficiencia energética.,6058531,True
+698,INM-18620,Casa Campestre,Espacio abierto con doble altura.,5085353,True
+699,INM-96495,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,6195878,True
+700,INM-60962,Consultorio Médico,Espacio abierto con doble altura.,8296042,True
+701,INM-67374,Casa Campestre,Ubicado en zona norte con vista panorámica.,4950075,True
+702,INM-90770,Oficina Corporativa,Espacio abierto con doble altura.,2916887,True
+703,INM-23632,Bodega Industrial,Espacio abierto con doble altura.,2229895,True
+704,INM-19218,Casa Campestre,Seguridad reforzada y acceso controlado.,12843972,True
+705,INM-30168,Oficina Corporativa,Ubicación estratégica en el centro financiero.,2761304,True
+706,INM-31133,Penthouse,Área residencial tranquila con zonas verdes.,1479191,True
+707,INM-50926,Local Comercial,Seguridad reforzada y acceso controlado.,7388982,True
+708,INM-48210,Local Comercial,Acabados de lujo y eficiencia energética.,13617846,True
+709,INM-88813,Lote Urbanizado,Área residencial tranquila con zonas verdes.,4770307,True
+710,INM-88892,Casa Campestre,Cerca a centros comerciales y transporte público.,14121619,True
+711,INM-10586,Consultorio Médico,Ubicado en zona norte con vista panorámica.,10042610,True
+712,INM-42777,Local Comercial,Seguridad reforzada y acceso controlado.,8307877,True
+713,INM-65940,Consultorio Médico,Seguridad reforzada y acceso controlado.,4507552,True
+714,INM-23582,Casa Campestre,Ubicación estratégica en el centro financiero.,13749461,True
+715,INM-93880,Apartamento Studio,Seguridad reforzada y acceso controlado.,4561170,True
+716,INM-90521,Consultorio Médico,Seguridad reforzada y acceso controlado.,4670327,True
+717,INM-41970,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,6717234,True
+718,INM-93211,Lote Urbanizado,Acabados de lujo y eficiencia energética.,12964211,True
+719,INM-98112,Local Comercial,Seguridad reforzada y acceso controlado.,9596394,True
+720,INM-90963,Consultorio Médico,Cerca a centros comerciales y transporte público.,7226999,True
+721,INM-66298,Casa Campestre,Espacio abierto con doble altura.,13601410,True
+722,INM-97247,Consultorio Médico,Seguridad reforzada y acceso controlado.,4863575,True
+723,INM-85069,Lote Urbanizado,Cerca a centros comerciales y transporte público.,7904346,True
+724,INM-14554,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1963551,True
+725,INM-74629,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,5654624,True
+726,INM-36137,Casa Campestre,Cerca a centros comerciales y transporte público.,12837474,True
+727,INM-54762,Lote Urbanizado,Cerca a centros comerciales y transporte público.,10260869,True
+728,INM-24868,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,9089745,True
+729,INM-49218,Lote Urbanizado,Cerca a centros comerciales y transporte público.,8391337,True
+730,INM-89792,Apartamento Studio,Seguridad reforzada y acceso controlado.,6079809,True
+731,INM-98848,Apartamento Studio,Ubicación estratégica en el centro financiero.,6697493,True
+732,INM-53381,Casa Campestre,Acabados de lujo y eficiencia energética.,4358343,True
+733,INM-23192,Consultorio Médico,Ubicación estratégica en el centro financiero.,12907092,True
+734,INM-19107,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,11301006,True
+735,INM-33067,Consultorio Médico,Cerca a centros comerciales y transporte público.,7182339,True
+736,INM-81052,Local Comercial,Ubicación estratégica en el centro financiero.,11945516,True
+737,INM-42294,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,14705375,True
+738,INM-25650,Bodega Industrial,Acabados de lujo y eficiencia energética.,4749092,True
+739,INM-64736,Parqueadero Cubierto,Espacio abierto con doble altura.,2202945,True
+740,INM-74972,Casa Campestre,Seguridad reforzada y acceso controlado.,922108,True
+741,INM-15193,Oficina Corporativa,Espacio abierto con doble altura.,2070197,True
+742,INM-25486,Apartamento Studio,Ubicado en zona norte con vista panorámica.,9349548,True
+743,INM-84031,Casa Campestre,Ubicación estratégica en el centro financiero.,6188272,True
+744,INM-36758,Local Comercial,Seguridad reforzada y acceso controlado.,10263553,True
+745,INM-59910,Bodega Industrial,Cerca a centros comerciales y transporte público.,8024794,True
+746,INM-22811,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,4604639,True
+747,INM-37990,Casa Campestre,Cerca a centros comerciales y transporte público.,2745073,True
+748,INM-42440,Penthouse,Ubicado en zona norte con vista panorámica.,10144520,True
+749,INM-16141,Apartamento Studio,Seguridad reforzada y acceso controlado.,10908722,True
+750,INM-91402,Oficina Corporativa,Cerca a centros comerciales y transporte público.,11080086,True
+751,INM-56741,Local Comercial,Seguridad reforzada y acceso controlado.,2857084,True
+752,INM-35698,Consultorio Médico,Ubicación estratégica en el centro financiero.,9203128,True
+753,INM-84390,Consultorio Médico,Ubicado en zona norte con vista panorámica.,8965569,True
+754,INM-45929,Oficina Corporativa,Seguridad reforzada y acceso controlado.,14783226,True
+755,INM-89350,Oficina Corporativa,Ubicación estratégica en el centro financiero.,7102789,True
+756,INM-88191,Bodega Industrial,Ubicado en zona norte con vista panorámica.,14113825,True
+757,INM-99356,Lote Urbanizado,Área residencial tranquila con zonas verdes.,3795046,True
+758,INM-67437,Apartamento Studio,Acabados de lujo y eficiencia energética.,12856376,True
+759,INM-68401,Penthouse,Cerca a centros comerciales y transporte público.,7178354,True
+760,INM-21632,Apartamento Studio,Ubicado en zona norte con vista panorámica.,1811512,True
+761,INM-77808,Consultorio Médico,Ubicado en zona norte con vista panorámica.,14646168,True
+762,INM-83320,Oficina Corporativa,Ubicación estratégica en el centro financiero.,14790861,True
+763,INM-48871,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,6686399,True
+764,INM-41018,Local Comercial,Área residencial tranquila con zonas verdes.,9072796,True
+765,INM-46325,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,905888,True
+766,INM-53333,Local Comercial,Seguridad reforzada y acceso controlado.,12903812,True
+767,INM-31845,Penthouse,Seguridad reforzada y acceso controlado.,2329342,True
+768,INM-57750,Oficina Corporativa,Seguridad reforzada y acceso controlado.,11053674,True
+769,INM-58699,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,14709534,True
+770,INM-29950,Penthouse,Ubicado en zona norte con vista panorámica.,4547299,True
+771,INM-80465,Consultorio Médico,Cerca a centros comerciales y transporte público.,7422780,True
+772,INM-83854,Apartamento Studio,Espacio abierto con doble altura.,12543461,True
+773,INM-68552,Consultorio Médico,Ubicación estratégica en el centro financiero.,12089742,True
+774,INM-56345,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,10728441,True
+775,INM-10853,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,11024820,True
+776,INM-19360,Bodega Industrial,Ubicación estratégica en el centro financiero.,4054097,True
+777,INM-77784,Oficina Corporativa,Seguridad reforzada y acceso controlado.,6059906,True
+778,INM-22934,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,6597117,True
+779,INM-17576,Casa Campestre,Acabados de lujo y eficiencia energética.,7580641,True
+780,INM-27292,Apartamento Studio,Seguridad reforzada y acceso controlado.,9798966,True
+781,INM-42179,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,3229091,True
+782,INM-82768,Penthouse,Ubicación estratégica en el centro financiero.,4107244,True
+783,INM-47543,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,4905099,True
+784,INM-95559,Parqueadero Cubierto,Espacio abierto con doble altura.,7410354,True
+785,INM-93816,Consultorio Médico,Seguridad reforzada y acceso controlado.,9222208,True
+786,INM-76058,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,986430,True
+787,INM-49207,Penthouse,Seguridad reforzada y acceso controlado.,10876515,True
+788,INM-13197,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,4536887,True
+789,INM-88298,Oficina Corporativa,Acabados de lujo y eficiencia energética.,5928274,True
+790,INM-21921,Local Comercial,Área residencial tranquila con zonas verdes.,13156742,True
+791,INM-89278,Lote Urbanizado,Cerca a centros comerciales y transporte público.,11668327,True
+792,INM-44360,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,5168129,True
+793,INM-11114,Casa Campestre,Cerca a centros comerciales y transporte público.,2940846,True
+794,INM-60464,Local Comercial,Espacio abierto con doble altura.,4164215,True
+795,INM-67960,Penthouse,Ubicación estratégica en el centro financiero.,5141440,True
+796,INM-69606,Consultorio Médico,Espacio abierto con doble altura.,871968,True
+797,INM-20485,Casa Campestre,Espacio abierto con doble altura.,1645856,True
+798,INM-11905,Penthouse,Seguridad reforzada y acceso controlado.,6967331,True
+799,INM-65565,Lote Urbanizado,Ubicación estratégica en el centro financiero.,14513459,True
+800,INM-99058,Apartamento Studio,Acabados de lujo y eficiencia energética.,10583478,True
+801,INM-42388,Oficina Corporativa,Seguridad reforzada y acceso controlado.,6557563,True
+802,INM-65004,Lote Urbanizado,Cerca a centros comerciales y transporte público.,7994353,True
+803,INM-80068,Consultorio Médico,Área residencial tranquila con zonas verdes.,8561881,True
+804,INM-98494,Apartamento Studio,Espacio abierto con doble altura.,9494745,True
+805,INM-54543,Bodega Industrial,Acabados de lujo y eficiencia energética.,1204212,True
+806,INM-62074,Casa Campestre,Seguridad reforzada y acceso controlado.,14071216,True
+807,INM-84385,Consultorio Médico,Acabados de lujo y eficiencia energética.,14809939,True
+808,INM-44042,Oficina Corporativa,Cerca a centros comerciales y transporte público.,14091896,True
+809,INM-50273,Oficina Corporativa,Acabados de lujo y eficiencia energética.,14963219,True
+810,INM-11806,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,6293273,True
+811,INM-42406,Consultorio Médico,Espacio abierto con doble altura.,11631815,True
+812,INM-96195,Bodega Industrial,Ubicación estratégica en el centro financiero.,13624344,True
+813,INM-87927,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,7925312,True
+814,INM-91138,Oficina Corporativa,Cerca a centros comerciales y transporte público.,4134267,True
+815,INM-27698,Consultorio Médico,Espacio abierto con doble altura.,13341068,True
+816,INM-33934,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,9607346,True
+817,INM-48002,Apartamento Studio,Seguridad reforzada y acceso controlado.,12039535,True
+818,INM-24408,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,2605197,True
+819,INM-91589,Lote Urbanizado,Acabados de lujo y eficiencia energética.,11526491,True
+820,INM-19308,Local Comercial,Seguridad reforzada y acceso controlado.,5620328,True
+821,INM-73962,Oficina Corporativa,Área residencial tranquila con zonas verdes.,13586149,True
+822,INM-35323,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,4422287,True
+823,INM-46680,Casa Campestre,Acabados de lujo y eficiencia energética.,6665156,True
+824,INM-76577,Apartamento Studio,Cerca a centros comerciales y transporte público.,9209402,True
+825,INM-56584,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,2805631,True
+826,INM-81990,Casa Campestre,Ubicación estratégica en el centro financiero.,4507209,True
+827,INM-71447,Consultorio Médico,Seguridad reforzada y acceso controlado.,1578061,True
+828,INM-15084,Consultorio Médico,Espacio abierto con doble altura.,12829725,True
+829,INM-16979,Lote Urbanizado,Área residencial tranquila con zonas verdes.,7507123,True
+830,INM-96162,Penthouse,Espacio abierto con doble altura.,9268226,True
+831,INM-64988,Apartamento Studio,Seguridad reforzada y acceso controlado.,4037400,True
+832,INM-27501,Local Comercial,Seguridad reforzada y acceso controlado.,4010527,True
+833,INM-29434,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,1460089,True
+834,INM-57164,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,2279699,True
+835,INM-15251,Local Comercial,Ubicado en zona norte con vista panorámica.,9384285,True
+836,INM-98755,Casa Campestre,Espacio abierto con doble altura.,3263336,True
+837,INM-48376,Bodega Industrial,Acabados de lujo y eficiencia energética.,13407053,True
+838,INM-13312,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,819636,True
+839,INM-72299,Penthouse,Ubicado en zona norte con vista panorámica.,8960113,True
+840,INM-41666,Penthouse,Seguridad reforzada y acceso controlado.,3432022,True
+841,INM-41430,Penthouse,Cerca a centros comerciales y transporte público.,7140900,True
+842,INM-27220,Local Comercial,Seguridad reforzada y acceso controlado.,1412892,True
+843,INM-39600,Bodega Industrial,Área residencial tranquila con zonas verdes.,12437213,True
+844,INM-97124,Consultorio Médico,Área residencial tranquila con zonas verdes.,1098139,True
+845,INM-46735,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,9548262,True
+846,INM-96920,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,10815233,True
+847,INM-24013,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,1609267,True
+848,INM-93456,Casa Campestre,Cerca a centros comerciales y transporte público.,3231545,True
+849,INM-76954,Penthouse,Ubicación estratégica en el centro financiero.,10241861,True
+850,INM-32684,Lote Urbanizado,Seguridad reforzada y acceso controlado.,3183443,True
+851,INM-24827,Oficina Corporativa,Ubicación estratégica en el centro financiero.,6564252,True
+852,INM-21477,Parqueadero Cubierto,Espacio abierto con doble altura.,2616228,True
+853,INM-52234,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,2018012,True
+854,INM-99027,Bodega Industrial,Seguridad reforzada y acceso controlado.,7724613,True
+855,INM-33752,Penthouse,Ubicación estratégica en el centro financiero.,13543483,True
+856,INM-41423,Apartamento Studio,Ubicación estratégica en el centro financiero.,8560031,True
+857,INM-48989,Casa Campestre,Ubicado en zona norte con vista panorámica.,4250024,True
+858,INM-21192,Consultorio Médico,Área residencial tranquila con zonas verdes.,1110376,True
+859,INM-43920,Casa Campestre,Área residencial tranquila con zonas verdes.,10152046,True
+860,INM-45037,Local Comercial,Cerca a centros comerciales y transporte público.,11629717,True
+861,INM-64591,Casa Campestre,Área residencial tranquila con zonas verdes.,13643357,True
+862,INM-16215,Apartamento Studio,Acabados de lujo y eficiencia energética.,2236258,True
+863,INM-40447,Lote Urbanizado,Área residencial tranquila con zonas verdes.,11438996,True
+864,INM-18659,Local Comercial,Ubicación estratégica en el centro financiero.,3049833,True
+865,INM-89049,Casa Campestre,Área residencial tranquila con zonas verdes.,6938631,True
+866,INM-83317,Local Comercial,Ubicación estratégica en el centro financiero.,7399307,True
+867,INM-15204,Lote Urbanizado,Área residencial tranquila con zonas verdes.,13745780,True
+868,INM-97036,Apartamento Studio,Cerca a centros comerciales y transporte público.,8625653,True
+869,INM-40808,Lote Urbanizado,Ubicado en zona norte con vista panorámica.,11147846,True
+870,INM-34568,Local Comercial,Ubicación estratégica en el centro financiero.,3362249,True
+871,INM-44362,Bodega Industrial,Acabados de lujo y eficiencia energética.,13258188,True
+872,INM-39196,Consultorio Médico,Espacio abierto con doble altura.,9155653,True
+873,INM-39080,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,10032058,True
+874,INM-78571,Apartamento Studio,Cerca a centros comerciales y transporte público.,1104455,True
+875,INM-82088,Lote Urbanizado,Acabados de lujo y eficiencia energética.,8968537,True
+876,INM-76648,Local Comercial,Acabados de lujo y eficiencia energética.,12300231,True
+877,INM-54901,Penthouse,Ubicado en zona norte con vista panorámica.,5435485,True
+878,INM-32189,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,942480,True
+879,INM-16597,Consultorio Médico,Ubicación estratégica en el centro financiero.,8245994,True
+880,INM-73914,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,10382636,True
+881,INM-50535,Bodega Industrial,Seguridad reforzada y acceso controlado.,9489433,True
+882,INM-98704,Consultorio Médico,Acabados de lujo y eficiencia energética.,1316338,True
+883,INM-51926,Lote Urbanizado,Seguridad reforzada y acceso controlado.,10825345,True
+884,INM-34343,Bodega Industrial,Cerca a centros comerciales y transporte público.,8157471,True
+885,INM-35717,Consultorio Médico,Seguridad reforzada y acceso controlado.,12224106,True
+886,INM-96268,Apartamento Studio,Ubicado en zona norte con vista panorámica.,10267247,True
+887,INM-66027,Lote Urbanizado,Seguridad reforzada y acceso controlado.,8844313,True
+888,INM-89931,Apartamento Studio,Ubicado en zona norte con vista panorámica.,2381655,True
+889,INM-58790,Bodega Industrial,Cerca a centros comerciales y transporte público.,13200013,True
+890,INM-54889,Apartamento Studio,Área residencial tranquila con zonas verdes.,13513609,True
+891,INM-24638,Oficina Corporativa,Seguridad reforzada y acceso controlado.,5510970,True
+892,INM-42002,Local Comercial,Espacio abierto con doble altura.,3396983,True
+893,INM-25555,Casa Campestre,Ubicado en zona norte con vista panorámica.,9104957,True
+894,INM-96343,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,14836043,True
+895,INM-47381,Penthouse,Ubicación estratégica en el centro financiero.,13844420,True
+896,INM-37031,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,4961743,True
+897,INM-39441,Apartamento Studio,Seguridad reforzada y acceso controlado.,2982171,True
+898,INM-56969,Consultorio Médico,Cerca a centros comerciales y transporte público.,6937964,True
+899,INM-68748,Casa Campestre,Seguridad reforzada y acceso controlado.,1563585,True
+900,INM-13713,Apartamento Studio,Acabados de lujo y eficiencia energética.,9979469,True
+901,INM-68008,Oficina Corporativa,Área residencial tranquila con zonas verdes.,1346685,True
+902,INM-23102,Apartamento Studio,Área residencial tranquila con zonas verdes.,14553934,True
+903,INM-49501,Oficina Corporativa,Área residencial tranquila con zonas verdes.,12827557,True
+904,INM-43809,Parqueadero Cubierto,Espacio abierto con doble altura.,13555279,True
+905,INM-79285,Apartamento Studio,Acabados de lujo y eficiencia energética.,9946956,True
+906,INM-82151,Bodega Industrial,Ubicación estratégica en el centro financiero.,12116031,True
+907,INM-40870,Lote Urbanizado,Seguridad reforzada y acceso controlado.,10705199,True
+908,INM-73911,Local Comercial,Área residencial tranquila con zonas verdes.,7299427,True
+909,INM-97949,Bodega Industrial,Cerca a centros comerciales y transporte público.,10089724,True
+910,INM-23929,Consultorio Médico,Cerca a centros comerciales y transporte público.,11846525,True
+911,INM-85490,Bodega Industrial,Ubicado en zona norte con vista panorámica.,7793438,True
+912,INM-93699,Local Comercial,Ubicado en zona norte con vista panorámica.,1879416,True
+913,INM-21983,Consultorio Médico,Ubicación estratégica en el centro financiero.,13505299,True
+914,INM-72376,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,11848739,True
+915,INM-55039,Parqueadero Cubierto,Espacio abierto con doble altura.,9831547,True
+916,INM-36613,Apartamento Studio,Espacio abierto con doble altura.,7430138,True
+917,INM-13254,Oficina Corporativa,Seguridad reforzada y acceso controlado.,1809489,True
+918,INM-23232,Consultorio Médico,Seguridad reforzada y acceso controlado.,7148436,True
+919,INM-89837,Penthouse,Seguridad reforzada y acceso controlado.,9494606,True
+920,INM-59335,Penthouse,Acabados de lujo y eficiencia energética.,6454380,True
+921,INM-11801,Casa Campestre,Ubicado en zona norte con vista panorámica.,10215357,True
+922,INM-42819,Apartamento Studio,Espacio abierto con doble altura.,5531314,True
+923,INM-50075,Bodega Industrial,Área residencial tranquila con zonas verdes.,10936417,True
+924,INM-58672,Parqueadero Cubierto,Seguridad reforzada y acceso controlado.,11698630,True
+925,INM-19334,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,3144678,True
+926,INM-15911,Bodega Industrial,Espacio abierto con doble altura.,11797918,True
+927,INM-61101,Penthouse,Ubicado en zona norte con vista panorámica.,12908630,True
+928,INM-80334,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,10798604,True
+929,INM-74996,Parqueadero Cubierto,Ubicación estratégica en el centro financiero.,3549699,True
+930,INM-38536,Casa Campestre,Acabados de lujo y eficiencia energética.,8442163,True
+931,INM-31854,Parqueadero Cubierto,Espacio abierto con doble altura.,4130458,True
+932,INM-45039,Parqueadero Cubierto,Área residencial tranquila con zonas verdes.,3349379,True
+933,INM-51412,Penthouse,Área residencial tranquila con zonas verdes.,1475238,True
+934,INM-73861,Casa Campestre,Ubicado en zona norte con vista panorámica.,14307815,True
+935,INM-79147,Consultorio Médico,Área residencial tranquila con zonas verdes.,9488255,True
+936,INM-30483,Lote Urbanizado,Ubicación estratégica en el centro financiero.,7199307,True
+937,INM-92526,Apartamento Studio,Ubicado en zona norte con vista panorámica.,13656663,True
+938,INM-37444,Consultorio Médico,Área residencial tranquila con zonas verdes.,9570380,True
+939,INM-24612,Bodega Industrial,Seguridad reforzada y acceso controlado.,12648861,True
+940,INM-87100,Local Comercial,Cerca a centros comerciales y transporte público.,3063452,True
+941,INM-33250,Penthouse,Espacio abierto con doble altura.,6140788,True
+942,INM-16926,Local Comercial,Espacio abierto con doble altura.,1605463,True
+943,INM-96297,Apartamento Studio,Área residencial tranquila con zonas verdes.,7096203,True
+944,INM-66709,Parqueadero Cubierto,Ubicado en zona norte con vista panorámica.,5668192,True
+945,INM-24770,Oficina Corporativa,Ubicado en zona norte con vista panorámica.,1399092,True
+946,INM-41145,Penthouse,Espacio abierto con doble altura.,10711302,True
+947,INM-28913,Lote Urbanizado,Cerca a centros comerciales y transporte público.,1269939,True
+948,INM-65215,Penthouse,Seguridad reforzada y acceso controlado.,4766862,True
+949,INM-14489,Oficina Corporativa,Cerca a centros comerciales y transporte público.,4290245,True
+950,INM-37976,Local Comercial,Seguridad reforzada y acceso controlado.,11706723,True
+951,INM-80085,Oficina Corporativa,Acabados de lujo y eficiencia energética.,3993283,True
+952,INM-32555,Penthouse,Seguridad reforzada y acceso controlado.,10673350,True
+953,INM-86592,Apartamento Studio,Cerca a centros comerciales y transporte público.,8329286,True
+954,INM-61327,Local Comercial,Cerca a centros comerciales y transporte público.,10332058,True
+955,INM-82221,Apartamento Studio,Área residencial tranquila con zonas verdes.,12286658,True
+956,INM-17442,Oficina Corporativa,Ubicación estratégica en el centro financiero.,14735627,True
+957,INM-87199,Penthouse,Seguridad reforzada y acceso controlado.,7247952,True
+958,INM-66870,Casa Campestre,Cerca a centros comerciales y transporte público.,7045326,True
+959,INM-89214,Consultorio Médico,Seguridad reforzada y acceso controlado.,13957887,True
+960,INM-32992,Apartamento Studio,Espacio abierto con doble altura.,1051340,True
+961,INM-91121,Casa Campestre,Espacio abierto con doble altura.,3075730,True
+962,INM-92236,Casa Campestre,Acabados de lujo y eficiencia energética.,1180086,True
+963,INM-71853,Apartamento Studio,Cerca a centros comerciales y transporte público.,11105801,True
+964,INM-41402,Penthouse,Ubicación estratégica en el centro financiero.,8965510,True
+965,INM-81209,Local Comercial,Área residencial tranquila con zonas verdes.,6354938,True
+966,INM-74849,Penthouse,Espacio abierto con doble altura.,8757005,True
+967,INM-64196,Lote Urbanizado,Cerca a centros comerciales y transporte público.,5011504,True
+968,INM-34773,Local Comercial,Cerca a centros comerciales y transporte público.,2413556,True
+969,INM-15922,Apartamento Studio,Área residencial tranquila con zonas verdes.,11378281,True
+970,INM-86724,Oficina Corporativa,Seguridad reforzada y acceso controlado.,12498154,True
+971,INM-13669,Apartamento Studio,Espacio abierto con doble altura.,12151559,True
+972,INM-55606,Apartamento Studio,Acabados de lujo y eficiencia energética.,3478637,True
+973,INM-57512,Casa Campestre,Ubicado en zona norte con vista panorámica.,14174831,True
+974,INM-91297,Lote Urbanizado,Ubicación estratégica en el centro financiero.,14499289,True
+975,INM-39490,Oficina Corporativa,Seguridad reforzada y acceso controlado.,13658136,True
+976,INM-98894,Bodega Industrial,Ubicación estratégica en el centro financiero.,14064532,True
+977,INM-63416,Local Comercial,Cerca a centros comerciales y transporte público.,9679953,True
+978,INM-90501,Oficina Corporativa,Área residencial tranquila con zonas verdes.,8010015,True
+979,INM-34455,Oficina Corporativa,Acabados de lujo y eficiencia energética.,6431183,True
+980,INM-68198,Bodega Industrial,Ubicación estratégica en el centro financiero.,6624359,True
+981,INM-89185,Lote Urbanizado,Área residencial tranquila con zonas verdes.,7865246,True
+982,INM-79970,Oficina Corporativa,Acabados de lujo y eficiencia energética.,6315973,True
+983,INM-83465,Bodega Industrial,Seguridad reforzada y acceso controlado.,4894190,True
+984,INM-41407,Lote Urbanizado,Espacio abierto con doble altura.,5056742,True
+985,INM-27920,Local Comercial,Espacio abierto con doble altura.,6211250,True
+986,INM-73350,Local Comercial,Área residencial tranquila con zonas verdes.,3006899,True
+987,INM-28327,Oficina Corporativa,Cerca a centros comerciales y transporte público.,3771050,True
+988,INM-85715,Apartamento Studio,Ubicación estratégica en el centro financiero.,8715877,True
+989,INM-94811,Apartamento Studio,Cerca a centros comerciales y transporte público.,7848647,True
+990,INM-42730,Apartamento Studio,Espacio abierto con doble altura.,14346578,True
+991,INM-75804,Local Comercial,Acabados de lujo y eficiencia energética.,6066382,True
+992,INM-74591,Bodega Industrial,Espacio abierto con doble altura.,3499161,True
+993,INM-96313,Penthouse,Espacio abierto con doble altura.,4369482,True
+994,INM-73920,Casa Campestre,Área residencial tranquila con zonas verdes.,2891247,True
+995,INM-46205,Bodega Industrial,Ubicado en zona norte con vista panorámica.,9084650,True
+996,INM-58026,Apartamento Studio,Área residencial tranquila con zonas verdes.,14382077,True
+997,INM-35924,Consultorio Médico,Área residencial tranquila con zonas verdes.,13433657,True
+998,INM-59503,Parqueadero Cubierto,Cerca a centros comerciales y transporte público.,6765351,True
+999,INM-97345,Casa Campestre,Cerca a centros comerciales y transporte público.,13809742,True
+1000,INM-57765,Parqueadero Cubierto,Acabados de lujo y eficiencia energética.,12398669,True
