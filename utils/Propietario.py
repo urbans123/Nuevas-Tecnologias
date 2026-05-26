@@ -34,9 +34,9 @@ def simular_propietarios(n_propietarios):
     return propietarios
 
 
-# Ejecutar simulación
-propietarios_simulados = simular_propietarios(10)
+if __name__ == "__main__":
+    propietarios_simulados = simular_propietarios(10)
 
-print("--- MUESTRA DE PROPIETARIOS ---")
-for p in propietarios_simulados[:5]:
-    print(p)
+    print("--- MUESTRA DE PROPIETARIOS ---")
+    for p in propietarios_simulados[:5]:
+        print(p)
