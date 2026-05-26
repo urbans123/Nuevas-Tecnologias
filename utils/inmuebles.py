@@ -22,7 +22,7 @@ def generar_simulacion_inmuebles(n_inmuebles, n_vinculaciones):
     catalogo_inmuebles = []
     for i in range(n_inmuebles):
         tipo = random.choice(tipos_inmueble)
-        valor_canon_base = random.randint(800000, 15000000) # Precios de renta realistas
+        valor_canon_base = random.randint(800000, 15000000)
         
         inmueble = {
             "id": i + 1,
@@ -40,7 +40,6 @@ def generar_simulacion_inmuebles(n_inmuebles, n_vinculaciones):
     for i in range(n_vinculaciones):
         inmueble_ref = random.choice(catalogo_inmuebles)
         
-        # Variación del precio pactado (negociación de la renta)
         variacion = random.uniform(0.95, 1.05)
         monto_pactado = int(inmueble_ref["valorBaseMensual"] * variacion)
         
@@ -62,13 +61,14 @@ def generar_simulacion_inmuebles(n_inmuebles, n_vinculaciones):
         "inmueblesContratos": inmuebles_contrato
     }
 
-# Ejecución de la simulación
-datos_simulados = generar_simulacion_inmuebles(10, 20)
 
-print("--- MUESTRA DE INMUEBLES (Catálogo/Inventario) ---")
-for inm in datos_simulados["inmuebles"][:3]:
-    print(inm)
+if __name__ == "__main__":
+    datos_simulados = generar_simulacion_inmuebles(10, 20)
 
-print("\n--- MUESTRA DE INMUEBLES-CONTRATOS (Relacional) ---")
-for ic in datos_simulados["inmueblesContratos"][:3]:
-    print(ic)
+    print("--- MUESTRA DE INMUEBLES (Catálogo/Inventario) ---")
+    for inm in datos_simulados["inmuebles"][:3]:
+        print(inm)
+
+    print("\n--- MUESTRA DE INMUEBLES-CONTRATOS (Relacional) ---")
+    for ic in datos_simulados["inmueblesContratos"][:3]:
+        print(ic)
